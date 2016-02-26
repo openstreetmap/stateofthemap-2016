@@ -154,7 +154,6 @@ em {
 /* Links */
 a,
 a > code {
-  color:#3887BE;
   text-decoration:none;
   }
   a:hover > code,
