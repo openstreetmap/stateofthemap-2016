@@ -13,6 +13,10 @@ p {
     color: #676767;
 }
 
+.dark p {
+    color: white;
+}
+
 h1,
 h2,
 h3,
