@@ -52,9 +52,20 @@ a:focus {
     color: #11505d;
 }
 
+.rcon.big:after, .icon.big:before {
+    font-size: 40px;
+    width: 40px;
+    height: 40px;
+    margin-top: -5px;
+}
+
 
 .light {
     font-weight: 400;
+}
+
+#cfp a {
+    color: #6a79ff;
 }
 
 .navbar-custom {
