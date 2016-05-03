@@ -68,6 +68,21 @@ a:focus {
     color: #6a79ff;
 }
 
+a.button.tickets-button {
+    color: white !important;
+    font-family: Varela;
+    font-size: 22px;
+    font-family: 'Varela Round',"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    letter-spacing: 1px;
+    background-color: #7E91FF;
+    border-radius: 50px;
+}
+
+a.button.tickets-button:hover {
+    background-color: #5D6ECE;
+}
+
 .navbar-custom {
     margin-bottom: 0;
     border-bottom: 1px solid rgba(255,255,255,.3);
