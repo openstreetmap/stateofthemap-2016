@@ -629,4 +629,7 @@ input#mce-EMAIL::selection {
     #sponsors .space-left1 {
         margin-left: 0px;
     }
+    #sponsors .sponsor {
+    width: 50%;
+    }
 }
