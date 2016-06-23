@@ -1,0 +1,48 @@
+0200-01-01-slot3.md 76 lets-get-la-on-the-map
+0200-01-01-slot4.md 73 building-community-through-mapathons-and-community-mapping
+0200-01-01-slot5.md 38 building-osm-higher-education-communities
+0200-01-01-slot6.md 85 osm-us-by-the-numbers-for-the-community
+0200-01-01-slot7.md 25 dynamic-timewarp-barycenter-averaging
+0200-01-01-slot8.md 125 how-can-ai-help-us-make-maps
+0200-01-01-slot9.md lighting-talks-a
+0200-01-01-slot10.md lightning-talks-b
+0200-01-01-slot11.md 39 using-osm-for-neighborhood-development-and-feedback
+0200-01-01-slot12.md 105 maptime-motherhood-and-martyrdom
+0200-01-01-slot13.md 63 one-map-many-voices
+0200-01-01-slot14.md 35 trace-from-space
+0200-01-01-slot15.md 112 skynet
+0200-01-01-slot16.md 58 how-to-become-an-osm-meetup-host
+0200-01-01-slot17.md 83 beyond-fire-hydrant-location
+0200-01-01-slot18.md 100 openstreetview
+0200-01-01-slot19.md 15 using-mapillary-to-improve-osm
+
+0200-01-02-slot2.md 99 improve-osm
+0200-01-02-slot3.md	18 osm-and-the-sustainable-development-goals
+0200-01-02-slot4.md 98 combating-hegemonic-cartographic-discourses-with-drones
+0200-01-02-slot5.md 124 the-reality-is-virtual
+0200-01-02-slot6.md 26 field-mapping-at-scale
+0200-01-02-slot7.md 123 giscorps-adding-some-more-gis-to-osm
+0200-01-02-slot8.md 78 trackyourcity-mapping-public-transport-from-scratch
+0200-01-02-slot9.md	84 beyond-aesthetic-icing
+0200-01-02-slot10.md 7 osm-lights-up-the-world-for-blind-users-with-sound
+0200-01-02-slot11.md 13 wikipedia-maps
+0200-01-02-slot12.md 14 spatial-analysis-in-the-developing-world
+0200-01-02-slot13.md 12 from-an-osm-way-into-a-highway-shield-point
+0200-01-02-slot14.md 40 befriending-a-geocoder
+0200-01-02-slot15.md 74 validating-the-map
+0200-01-02-slot16.md 46 millions-that-dont-care
+0200-01-02-slot17.md 93 what-if-it-doesnt-belong-in-osm
+0200-01-02-slot18.md 16 lowering-the-barriers-to-participation-with-field-papers
+0200-01-02-slot19.md 22 dynamic-timewarp-barycenter-averaging
+0200-01-02-slot20.md 55 behind-the-cenes-of-the-mapzen-targeted-editing-series-engaging-editors
+
+
+community
+analysis
+multi
+direction
+imagery
+tools
+impact abroad
+getting around
+technical
