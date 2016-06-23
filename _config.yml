@@ -15,3 +15,17 @@ color:
   primary-dark: '#200050'
   links: '#fc306b'
   primary-light: '#e2e2e2'
+
+
+# Where things are
+source:       .
+destination:  ./_site
+layouts_dir:  ./_layouts
+includes_dir: ./_includes
+permalink: /2016/:title/
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      permalink: /2016/:title/
