@@ -1,0 +1,713 @@
+---
+layout: program
+color: fill-midnight
+themes:
+  - key: all
+    label: All
+  - key: analysis
+    label: Analysis
+  - key: community-growth
+    label: Community Growth
+  - key: education
+    label: Education
+  - key: humanitarian
+    label: Humanitarian
+  - key: indoors
+    label: Indoors
+  - key: local-community
+    label: Local Community
+  - key: technical
+    label: Technical
+  - key: tools
+    label: Tools
+---
+
+    <div class='pad4y col12 clearfix prose'>
+      <div class='col12 space-bottom4 contain'>
+
+        <div
+          id='program-intro'
+          class='col12 clearfix space-bottom4'>
+          <div class='col8'>
+            <h2 class='color-purple2 spartan'>Program</h2>
+            <p class='sans'>Join for three days packed with talks, workshops, hacking, mapping parties and meetings all around OpenStreetMap.</p>
+          </div>
+        </div>
+        <header class='js-fixed program-header fill-purple dark z1 col12 mobile-cols clearfix keyline-all contain'>
+          <div class='col8 truncate pad1 js-date'>Friday</div>
+          <div class='col4 keyline-left'>
+            <a href='#' class='js-dropdown-trigger quiet pad1 block truncate'>
+              <span class='dot pad0 inline fill-all'></span>
+              All categories
+            </a>
+            <div class='js-dropdown dropdown scroll-styled col4 hidden pin-topright z1 keyline-all'>
+              {% for theme in page.themes %}
+                <a href='#' data-category='{{theme.key}}' data-label='{{theme.label}}' class='quiet block pad1x pad0y keyline-bottom js-category'>
+                  <span class='dot pad0 inline fill-{{theme.key}}'></span>
+                  {{theme.label}}
+                </a>
+              {% endfor %}
+            </div>
+          </div>
+        </header>
+
+        <!-- Friday -->
+        <div
+          data-title='Friday 8:00am'
+          class='program-block keyline-left keyline-right keyline-bottom fill-lighten0'>
+          <label>
+            <span class='pad1 inline fill-darken01 keyline-right timestamp'>8:00am</span>
+            <span class='pad1 inline'>Registration / Coffee / Tea</span>
+          </label>
+        </div>
+
+        <div
+          data-title='Friday 9:00am'
+          class='program-block keyline-left keyline-right keyline-bottom fill-lighten0'>
+          <label>
+            <span class='pad1 inline fill-darken0 keyline-right timestamp'>9:00am</span>
+            <span class='pad1 inline'>Opening Session</span> <span class='light'>VUB Building Q</span>
+          </label>
+        </div>
+
+        <div
+          data-title='Friday 9:30am'
+          class='program-block keyline-left keyline-right keyline-bottom fill-lighten0'>
+          <label>
+            <span class='pad1 inline fill-darken0 keyline-right timestamp'>9:30am</span>
+            <span class='pad1 inline'>Keynote Ambassador Allan Mustard</span> <span class='light'>VUB Building Q</span>
+          </label>
+        </div>
+
+        <div
+          data-title='Friday 10:00am'
+          class='pad1 fill-darken0 program-block keyline-left keyline-right keyline-bottom'>
+          <label>10:00am</label>
+        </div>
+        <div
+          data-title='Friday 10:00am'
+          class='col12 program-blocks keyline-bottom clearfix'>
+        {% for post in site.tags.slot1 reversed %}
+          {% include slot-item.html %}
+        {% endfor %}
+        </div>
+
+        <div
+          data-title='Friday 10:30am'
+          class='pad1 fill-darken0 program-block keyline-left keyline-right keyline-bottom'>
+          <label>10:30am</label>
+        </div>
+        <div
+          data-title='Friday 10:30am'
+          class='col12 program-blocks keyline-bottom clearfix'>
+        {% for post in site.tags.slot2 reversed %}
+          {% capture time %}10:30am{% endcapture %}
+          {% include slot-item.html %}
+        {% endfor %}
+        </div>
+
+        <div
+          data-title='Friday 11:00am'
+          class='program-block keyline-left keyline-right keyline-bottom fill-lighten0'>
+          <label>
+            <span class='pad1 inline fill-darken0 keyline-right timestamp'>11:00am</span>
+            <span class='pad1 inline'>Coffee / Tea</span>
+          </label>
+        </div>
+
+        <div
+          data-title='Friday 11:30am'
+          class='pad1 fill-darken0 program-block keyline-left keyline-right keyline-bottom'>
+          <label>11:30am</label>
+        </div>
+        <div
+          class='col12 program-blocks keyline-bottom clearfix'>
+        {% for post in site.tags.slot3 reversed %}
+          {% include slot-item.html %}
+        {% endfor %}
+        </div>
+
+        <div
+          data-title='Friday 12:00pm'
+          class='pad1 fill-darken0 program-block keyline-left keyline-right keyline-bottom'>
+          <label>12:00pm</label>
+        </div>
+        <div
+          class='col12 program-blocks keyline-bottom clearfix'>
+        {% for post in site.tags.slot4 reversed %}
+          {% include slot-item.html %}
+        {% endfor %}
+        </div>
+
+        <div
+          data-title='Friday 12:30pm'
+          class='pad1 fill-darken0 program-block keyline-left keyline-right keyline-bottom'>
+          <label>12:30pm</label>
+        </div>
+        <div
+          class='col12 program-blocks keyline-bottom clearfix'>
+        {% for post in site.tags.slot5 reversed %}
+          {% include slot-item.html %}
+        {% endfor %}
+        </div>
+
+        <div
+          data-title='Friday 1:00pm'
+          class='program-block keyline-left keyline-right keyline-bottom  fill-lighten0'>
+          <label>
+            <span class='pad1 inline fill-darken0 keyline-right timestamp'>1:00pm</span>
+            <span class='pad1 inline'>Lunch</span>
+          </label>
+        </div>
+
+        <div
+          data-title='Friday 1:50pm'
+          class='program-block keyline-left keyline-right keyline-bottom  fill-lighten0'>
+          <label>
+            <span class='pad1 inline fill-darken0 keyline-right timestamp'>2:15pm</span>
+            <span class='pad1 inline'>Group Photo</span>
+          </label>
+        </div>
+
+        <div
+          data-title='Friday 2:10pm'
+          class='pad1 fill-darken0 program-block keyline-left keyline-right keyline-bottom'>
+          <label>2:10pm</label>
+        </div>
+        <div
+          class='col12 program-blocks keyline-bottom clearfix'>
+        {% for post in site.tags.slot6 reversed %}
+          {% include slot-item.html %}
+        {% endfor %}
+        </div>
+
+        <div
+          data-title='Friday 2:40pm'
+          class='pad1 fill-darken0 program-block keyline-left keyline-right keyline-bottom'>
+          <label>2:40pm</label>
+        </div>
+        <div
+          class='col12 program-blocks keyline-bottom clearfix'>
+        {% for post in site.tags.slot7 reversed %}
+          {% include slot-item.html %}
+        {% endfor %}
+        </div>
+
+        <div
+          data-title='Friday 3:10pm'
+          class='pad1 fill-darken0 program-block keyline-left keyline-right keyline-bottom'>
+          <label>3:10pm</label>
+        </div>
+        <div
+          class='col12 program-blocks keyline-bottom clearfix'>
+        {% for post in site.tags.slot8 reversed %}
+          {% include slot-item.html %}
+        {% endfor %}
+        </div>
+
+        <div
+          data-title='Friday 3:40pm'
+          class='program-block keyline-left keyline-right keyline-bottom fill-lighten0'>
+          <label>
+            <span class='pad1 inline fill-darken0 keyline-right timestamp'>3:40pm</span>
+            <span class='pad1 inline'>Coffee / Tea</span>
+          </label>
+        </div>
+
+        <div
+          data-title='Friday 4:10pm'
+          class='pad1 fill-darken0 program-block keyline-left keyline-right keyline-bottom'>
+          <label>4:10pm</label>
+        </div>
+        <div
+          class='col12 program-blocks keyline-bottom clearfix'>
+        {% for post in site.tags.slot9 reversed %}
+          {% include slot-item.html %}
+        {% endfor %}
+        </div>
+
+        <div
+          data-title='Friday 4:40pm'
+          class='pad1 fill-darken0 program-block keyline-left keyline-right keyline-bottom'>
+          <label>4:40pm</label>
+        </div>
+        <div
+          class='col12 program-blocks keyline-bottom clearfix'>
+        {% for post in site.tags.slot10 reversed %}
+          {% include slot-item.html %}
+        {% endfor %}
+        </div>
+
+        <div
+          data-title='Friday 5:10pm'
+          class='pad1 fill-darken0 program-block keyline-left keyline-right keyline-bottom'>
+          <label>5:10pm</label>
+        </div>
+        <div
+          class='col12 program-blocks keyline-bottom clearfix'>
+        {% for post in site.tags.slot11 reversed %}
+          {% include slot-item.html %}
+        {% endfor %}
+        </div>
+<!--
+        <div
+          data-title='Friday 7:30pm'
+          class='program-block space-bottom4 keyline-left keyline-right keyline-bottom fill-lighten0'>
+          <label>
+            <span class='pad1 inline fill-darken0 keyline-right timestamp'>7:30pm</span>
+            <span class='pad1 inline'>Social</span>
+          </label>
+        </div>
+-->
+        <!-- Saturday -->
+        <h2>Saturday</h2>
+        <div
+          data-title='Saturday 8:00am'
+          class='program-block keyline-all fill-lighten0'>
+          <label>
+            <span class='pad1 inline fill-darken0 keyline-right timestamp'>8:00am</span>
+            <span class='pad1 inline'>Registration / Coffee / Tea</span>
+          </label>
+        </div>
+
+        <div
+          data-title='Saturday 9:30am'
+          class='pad1 fill-darken0 program-block keyline-left keyline-right keyline-bottom'>
+          <label>9:30am</label>
+        </div>
+        <div
+          class='col12 program-blocks keyline-bottom clearfix'>
+        {% for post in site.tags.slot12 reversed %}
+          {% include slot-item.html %}
+        {% endfor %}
+        </div>
+
+        <div
+          data-title='Saturday 10:00am'
+          class='pad1 fill-darken0 program-block keyline-left keyline-right keyline-bottom'>
+          <label>10:00am</label>
+        </div>
+        <div
+          class='col12 program-blocks keyline-bottom clearfix'>
+        {% for post in site.tags.slot13 reversed %}
+          {% include slot-item.html %}
+        {% endfor %}
+        </div>
+
+        <div
+          data-title='Saturday 10:30am'
+          class='pad1 fill-darken0 program-block keyline-left keyline-right keyline-bottom'>
+          <label>10:30am</label>
+        </div>
+        <div
+          class='col12 program-blocks keyline-bottom clearfix'>
+        {% for post in site.tags.slot14 reversed %}
+          {% include slot-item.html %}
+        {% endfor %}
+        </div>
+
+        <div
+          data-title='Saturday 11:00am'
+          class='program-block keyline-left keyline-right keyline-bottom fill-lighten0'>
+          <label>
+            <span class='pad1 inline fill-darken0 keyline-right timestamp'>11:00am</span>
+            <span class='pad1 inline'>Coffee / Tea</span>
+          </label>
+        </div>
+
+        <div
+          data-title='Saturday 11:30am'
+          class='pad1 fill-darken0 program-block keyline-left keyline-right keyline-bottom'>
+          <label>11:30am</label>
+        </div>
+        <div
+          class='col12 program-blocks keyline-bottom clearfix'>
+        {% for post in site.tags.slot15 reversed %}
+          {% include slot-item.html %}
+        {% endfor %}
+        </div>
+
+        <div
+          data-title='Saturday 12:00pm'
+          class='pad1 fill-darken0 program-block keyline-left keyline-right keyline-bottom'>
+          <label>12:00pm</label>
+        </div>
+        <div
+          class='col12 program-blocks keyline-bottom clearfix'>
+        {% for post in site.tags.slot16 reversed %}
+          {% include slot-item.html %}
+        {% endfor %}
+        </div>
+
+        <div
+          data-title='Saturday 12:30pm'
+          class='pad1 fill-darken0 program-block keyline-left keyline-right keyline-bottom'>
+          <label>12:30pm</label>
+        </div>
+        <div
+          class='col12 program-blocks keyline-bottom clearfix'>
+        {% for post in site.tags.slot17 reversed %}
+          {% include slot-item.html %}
+        {% endfor %}
+        </div>
+
+        <div
+          data-title='Saturday 1:00pm'
+          class='program-block keyline-left keyline-right keyline-bottom fill-lighten0'>
+          <label>
+            <span class='pad1 inline fill-darken0 keyline-right timestamp'>1:00pm</span>
+            <span class='pad1 inline'>Lunch</span>
+          </label>
+        </div>
+
+        <div
+          data-title='Saturday 2:00pm'
+          class='pad1 fill-darken0 program-block keyline-left keyline-right keyline-bottom'>
+          <label>2:00pm</label>
+        </div>
+        <div
+          class='col12 program-blocks keyline-bottom clearfix'>
+        {% for post in site.tags.slot18 reversed %}
+          {% include slot-item.html %}
+        {% endfor %}
+        </div>
+
+        <div
+          data-title='Saturday 2:30pm'
+          class='pad1 fill-darken0 program-block keyline-left keyline-right keyline-bottom'>
+          <label>2:30pm</label>
+        </div>
+        <div
+          class='col12 program-blocks keyline-bottom clearfix'>
+        {% for post in site.tags.slot19 reversed %}
+          {% include slot-item.html %}
+        {% endfor %}
+        </div>
+
+        <div
+          data-title='Saturday 3:00pm'
+          class='pad1 fill-darken0 program-block keyline-left keyline-right keyline-bottom'>
+          <label>3:00pm</label>
+        </div>
+        <div
+          class='col12 program-blocks keyline-bottom clearfix'>
+        {% for post in site.tags.slot20 reversed %}
+          {% include slot-item.html %}
+        {% endfor %}
+        </div>
+
+        <div
+          data-title='Saturday 3:30pm'
+          class='program-block keyline-left keyline-right keyline-bottom fill-lighten0'>
+          <label>
+            <span class='pad1 inline fill-darken0 keyline-right timestamp'>3:30pm</span>
+            <span class='pad1 inline'>Coffee / Tea</span>
+          </label>
+        </div>
+
+        <div
+          data-title='Saturday 4:00pm'
+          class='pad1 fill-darken0 program-block keyline-left keyline-right keyline-bottom'>
+          <label>4:00pm</label>
+        </div>
+        <div
+          class='col12 program-blocks keyline-bottom clearfix'>
+        {% for post in site.tags.slot21 reversed %}
+          {% include slot-item.html %}
+        {% endfor %}
+        </div>
+
+        <div
+          data-title='Saturday 4:30pm'
+          class='pad1 fill-darken0 program-block keyline-left keyline-right keyline-bottom'>
+          <label>4:30pm</label>
+        </div>
+        <div
+          class='col12 program-blocks keyline-bottom clearfix'>
+        {% for post in site.tags.slot22 reversed %}
+          {% include slot-item.html %}
+        {% endfor %}
+        </div>
+
+        <div
+          data-title='Saturday 5:00pm'
+          class='pad1 fill-darken0 program-block keyline-left keyline-right keyline-bottom'>
+          <label>5:00pm</label>
+        </div>
+        <div
+          class='col12 program-blocks keyline-bottom clearfix'>
+        {% for post in site.tags.slot23 reversed %}
+          {% include slot-item.html %}
+        {% endfor %}
+        </div>
+
+        <div
+          data-title='Saturday 5:30pm'
+          class='program-block keyline-left keyline-right keyline-bottom fill-lighten0'>
+          <label>
+            <span class='pad1 inline fill-darken0 keyline-right timestamp'>5:30pm</span>
+            <span class='pad1 inline'>Closing session</span> <span class='light'>VUB Building Q</span>
+          </label>
+        </div>
+      </div>
+
+      <!-- MOMDAY -->
+      <h2>Sunday</h2>
+      <div class="program-block keyline-all fill-lighten0">
+        <label>get hands on with workshops, code, documentation sprints and mapping activities.</label>
+      </div>
+      <!--
+      <div data-title="Sunday 8:00am" class="program-block keyline-all fill-lighten0">
+          <label>
+            <span class="pad1 inline fill-darken0 keyline-right timestamp">8:00am</span>
+            <span class="pad1 inline">Coffee / Tea</span>
+          </label>
+        </div>
+        <div data-title="Sunday 9:00am" class="pad1 fill-darken0 program-block keyline-left keyline-right keyline-bottom">
+          <label>9:00am</label>
+        </div>
+        <div class="col12 program-blocks keyline-bottom clearfix">
+
+            <div data-category="workshop" class="col4 prose pad1 program-block animate contain keyline-left keyline-right">
+              <label>
+                <span class="room">Pigott 101</span>
+                <span class="light"> 49 people</span>
+              </label>
+              <div class="sans block space-top2 sessiontitle space-bottom1">
+               Make maps more ​interactive​ with the magic of a geocoding search box
+              </div>
+              <label><span class="round space-top2 fill-lighten1 micro strong pad1x pad0y">Geocoding</span></label>
+              <small class="col12 pin-bottomleft pad1 space-top2">
+                <span class="inline pad0 dot fill-workshops" title="workshops"></span>
+                Rhonda Glennon, Diana Shkolnikov
+              </small>
+            </div>
+
+
+            <div data-category="workshop" class="col4 prose pad1 program-block animate contain keyline-right">
+              <label>
+                <span class="room">Pigott 102</span>
+                <span class="light"> 49 people</span>
+              </label>
+              <div class="sans block space-top2 sessiontitle space-bottom1">
+                Make an interactive map with OSM data!
+              </div>
+              <label><span class="round space-top2 fill-lighten1 micro strong pad1x pad0y">Make maps</span></label>
+              <small class="col12 pin-bottomleft pad1">
+                <span class="inline pad0 dot fill-workshops space-top2" title="workshops"></span>
+                Lyzi Diamond, Dan Swick
+              </small>
+            </div>
+
+
+            <div data-category="workshop" class="col4 prose pad1 program-block animate contain keyline-left keyline-right">
+              <label>
+                <span class="room">Pigott 108</span>
+                <span class="light"> 30 people</span>
+              </label>
+              <div class="sans block space-top2 sessiontitle space-bottom1">
+               How to make the most out of OSM Evangelization
+              </div>
+              <label><span class="round space-top2 fill-lighten1 micro strong pad1x pad0y">Community building</span></label>
+              <small class="col12 pin-bottomleft pad1">
+                <span class="inline pad0 dot fill-workshops space-top2" title="workshops"></span>
+                Javier Carranza
+              </small>
+            </div>
+        </div>
+
+        <div data-title="Sunday 10:30am" class="pad1 fill-darken0 program-block keyline-left keyline-right keyline-bottom">
+          <label>10:30am</label>
+        </div>
+        <div class="col12 program-blocks keyline-bottom clearfix">
+
+            <div data-category="workshop" class="col4 prose pad1 program-block animate contain keyline-left keyline-right">
+              <label>
+                <span class="room">Pigott 101</span>
+                <span class="light"> 49 people</span>
+              </label>
+              <div class="sans block space-top2 sessiontitle space-bottom1">
+                Interpreting Satellite Imagery for OpenStreetMap
+              </div>
+              <label><span class="round space-top2 fill-lighten1 micro strong pad1x pad0y">Geocoding</span></label>
+              <small class="col12 pin-bottomleft pad1">
+                <span class="inline pad0 dot fill-workshops space-top2" title="workshops"></span>
+               James Sondag and Christopher Orndorff
+              </small>
+            </div>
+
+
+            <div data-category="workshop" class="col4 prose pad1 program-block animate contain keyline-right">
+              <label>
+                <span class="room">Pigott 102</span>
+                <span class="light"> 49 people</span>
+              </label>
+              <div class="sans block space-top2 sessiontitle space-bottom1">
+               Rendering your own maps
+              </div>
+              <label><span class="round space-top2 fill-lighten1 micro strong pad1x pad0y">Make maps</span></label>
+              <small class="col12 pin-bottomleft pad1">
+                <span class="inline pad0 dot fill-workshops space-top2" title="workshops"></span>
+                Paul Norman
+              </small>
+            </div>
+
+
+            <div data-category="workshop" class="col4 prose pad1 program-block animate contain keyline-right">
+              <label>
+                <span class="room">Pigott 108</span>
+                <span class="light"> 30 people</span>
+              </label>
+              <div class="sans block space-top2 sessiontitle space-bottom1">
+               Making mapping fun and engaging future mappers
+              </div>
+              <label><span class="round space-top2 fill-lighten1 micro strong pad1x pad0y">Community building</span></label>
+              <small class="col12 pin-bottomleft pad1">
+                <span class="inline pad0 dot fill-workshops space-top2" title="workshops"></span>
+                Miriam Gonzalez
+              </small>
+            </div>
+        </div>
+
+
+      <div data-title="Sunday 12:00pm" class="program-block keyline-left keyline-right keyline-bottom fill-lighten0">
+          <label>
+            <span class="pad1 inline fill-darken0 keyline-right timestamp">12:00pm</span>
+            <span class="pad1 inline">Lunch</span>
+          </label>
+        </div>
+
+
+        <div data-title="Sunday 13:00pm" class="pad1 fill-darken0 program-block keyline-left keyline-right keyline-bottom">
+          <label>13:00pm</label>
+        </div>
+        <div class="col12 program-blocks keyline-bottom clearfix">
+
+            <div data-category="workshop" class="col4 prose pad1 program-block animate contain keyline-left keyline-right workshop">
+              <label>
+                <span class="room">Pigott 101</span>
+                <span class="light"> 49 people</span>
+              </label>
+              <div class="sans block space-top2 sessiontitle space-bottom1">
+                 Let's add bike-share stations to OSM
+              </div>
+              <label><span class="round space-top2 fill-lighten1 micro strong pad1x pad0y">tagging and mapping</span></label>
+              <small class="col12 pin-bottomleft pad1">
+                <span class="inline pad0 dot fill-workshops space-top2" title="workshops"></span>
+               Jim Walseth
+              </small>
+            </div>
+
+
+            <div data-category="workshop" class="col4 prose pad1 program-block animate contain workshop">
+              <label>
+                <span class="room">Pigott 102</span>
+                <span class="light"> 49 people</span>
+              </label>
+              <div class="sans block space-top2 sessiontitle space-bottom1">
+                Faites vos jeux - Here's the New MapRoulette
+              </div>
+              <label><span class="round space-top2 fill-lighten1 micro strong pad1x pad0y">contribute to tools</span></label>
+              <small class="col12 pin-bottomleft pad1">
+                <span class="inline pad0 dot fill-workshops space-top2" title="workshops"></span>
+                 Martijn van Exel
+              </small>
+            </div>
+
+
+            <div data-category="workshop" class="col4 prose pad1 program-block animate contain keyline-left keyline-right workshop">
+              <label>
+                <span class="room">Pigott 108</span>
+                <span class="light"> 30 people</span>
+              </label>
+              <div class="sans block space-top2 sessiontitle space-bottom1">
+               OpenDroneMap <3 OpenAerialMap <3 OpenStreetMap
+              </div>
+              <label><span class="round space-top2 fill-lighten1 micro strong pad1x pad0y">flying</span></label>
+              <small class="col12 pin-bottomleft pad1">
+                <span class="inline pad0 dot fill-workshops space-top2" title="workshops"></span>
+                Stephen Mather, Cristiano Giovando, Nate Smith
+              </small>
+            </div>
+        </div>
+
+        <div data-title="Sunday 14:30pm" class="pad1 fill-darken0 program-block keyline-left keyline-right keyline-bottom">
+          <label>14:30pm</label>
+        </div>
+        <div class="col12 program-blocks keyline-bottom clearfix">
+
+            <div data-category="workshop" class="col4 prose pad1 program-block animate contain keyline-left keyline-right workshop">
+              <label>
+                <span class="room">Pigott 101</span>
+                <span class="light"> 49 people</span>
+              </label>
+              <div class="sans block space-top2 sessiontitle space-bottom1">
+                Tagging and mapping for routing and navigation
+              </div>
+              <label><span class="round space-top2 fill-lighten1 micro strong pad1x pad0y">tagging and mapping</span></label>
+              <small class="col12 pin-bottomleft pad1">
+                <span class="inline pad0 dot fill-workshops space-top2" title="workshops"></span>
+                Sivaram Ramachandran
+              </small>
+            </div>
+
+
+            <div data-category="workshop" class="col4 prose pad1 program-block animate contain workshop">
+              <label>
+                <span class="room">Pigott 102</span>
+                <span class="light"> 49 people</span>
+              </label>
+              <div class="sans block space-top2 sessiontitle space-bottom1">
+                Customizing iD for Developers
+              </div>
+              <label><span class="round space-top2 fill-lighten1 micro strong pad1x pad0y">contribute to tools</span></label>
+              <small class="col12 pin-bottomleft pad1">
+                <span class="inline pad0 dot fill-workshops space-top2" title="workshops"></span>
+                Bryan Housel
+              </small>
+            </div>
+
+
+            <div data-category="workshop" class="col4 prose pad1 program-block animate contain keyline-left keyline-right workshop">
+              <label>
+                <span class="room">Pigott 108</span>
+                <span class="light"> 30 people</span>
+              </label>
+              <div class="sans block space-top2 sessiontitle space-bottom1">
+               OpenDroneMap <3 OpenAerialMap <3 OpenStreetMap
+              </div>
+              <label><span class="round space-top2 fill-lighten1 micro strong pad1x pad0y">flying</span></label>
+              <small class="col12 pin-bottomleft pad1">
+                <span class="inline pad0 dot fill-workshops space-top2" title="workshops"></span>
+                Stephen Mather, Cristiano Giovando, Nate Smith
+              </small>
+            </div>
+        </div>
+
+      <div data-title="Sunday 16:00pm" class="program-block keyline-left keyline-right keyline-bottom fill-lighten0">
+          <label>
+            <span class="pad1 inline fill-darken0 keyline-right timestamp">16:00pm</span>
+            <span class="pad1 inline">End</span>
+          </label>
+        </div>
+
+
+
+       <div id='additional' class='prose space-top4'>
+        <h2>Sprints</h2>
+        <div class='space-bottom2'>
+          <h3>Student Center 130  | 9AM - 12PM</h3>
+          <p>Reserved for presentations / topic intros / meeting without distraction (classroom or larger meeting room). LearnOSM / TeachOSM. YouthMappers
+          </p>
+          <h3>Student Center 210  | 9AM - 12PM</h3>
+          <p>Join hacking on code and documentation. <a href="https://wiki.openstreetmap.org/wiki/State_Of_The_Map_U.S._2016/Hands-On_Day#Code_sprints">Coordinate sprints on the OpenStreetMap Wiki ahead of time</a> or organize a sprint spontaneously.
+          </p>
+        </div>
+        </div>
+      </div>
+    -->
+
+
+    </div>
+<script src='{{site.baseurl}}/program/affix.js'></script>
+<script src='{{site.baseurl}}/program/program.js'></script>
