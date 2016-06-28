@@ -1,8 +1,8 @@
 ---
 layout: event
 title: Energise your community with focused projects
-theme: direction
-category: direction
+theme: community-growth
+category: community-growth
 name: Brian Prangle
 organization: Mappa Mercia
 twitter:

@@ -1,8 +1,8 @@
 ---
 layout: event
 title: A love-letter to OSM greetings from Brussels
-theme: community
-category: community
+theme: local-community
+category: local-community
 name: Laura Nagels
 organization: Trage Wegen vzw
 twitter:

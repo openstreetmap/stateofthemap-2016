@@ -1,8 +1,8 @@
 ---
 layout: event
 title: Investing in Growing OSM Mapping Communities to Build Resilience to Natural Hazards and the Impacts of Climate Change
-theme: direction
-category: direction
+theme: community-growth
+category: community-growth
 name: Vivien Deparday
 organization: World Bank - Global Facility for Disaster Reduction and Recovery
 twitter: vdeparday
