@@ -65,9 +65,6 @@ $header.affix({
   offset: {
     top: function () {
       return (this.top = $siteHeader.outerHeight(true) + $programIntro.outerHeight(true) + 20);
-    },
-    bottom: function () {
-      return (this.bottom = $footer.outerHeight(true) + $additional.outerHeight(true) + 90);
     }
   }
 });
