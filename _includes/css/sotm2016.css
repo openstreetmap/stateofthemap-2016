@@ -765,6 +765,15 @@ a:hover.sessiontitle {
 .program-blocks .program-block.workshop:last-child {
     border-left-width: 1px;
 }
+.button.stroke {
+    background-color: transparent;
+    box-shadow: 0px 0px 0px 2px #3887be inset;
+    color: #3887be;
+    font-family: 'Varela round';
+    font-size: 14px;
+    font-weight: 800;
+    letter-spacing: 0px;
+}
 
 /* Small screen
 ---------------------------------------------- */
