@@ -2,7 +2,7 @@
 layout: event
 title: Map It Forward. Incorporating OSM into Universities Curriculum
 theme: education
-category: Education
+category: education
 name: Vasanthi Hargyono
 organization: Humanitarian OpenStreetMap Team (Indonesia)
 twitter: justva

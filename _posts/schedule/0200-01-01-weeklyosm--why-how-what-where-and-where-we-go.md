@@ -3,7 +3,7 @@ layout: event
 title: weeklyOSM - why, how, what, where and where we go
 theme: community-growth
 category: community-growth
-name: Reiter
+name: Manfred Reiter, Laura Barroso
 organization: weeklyOSM
 twitter:
 osm:

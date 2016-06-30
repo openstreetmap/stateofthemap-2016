@@ -2,7 +2,7 @@
 layout: event
 title: OSM for Traffic Simulation
 theme: tools
-category: Tools
+category: tools
 name: Michael Zilske
 organization: Technische Universität Berlin
 twitter: michaelzilske

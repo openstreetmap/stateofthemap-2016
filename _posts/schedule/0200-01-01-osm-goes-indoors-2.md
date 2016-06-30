@@ -2,7 +2,7 @@
 layout: event
 title: OSM goes indoors. why we mapped 400 train stations in Paris
 theme: indoors
-category: Indoors
+category: indoors
 name: florian lainez
 organization: SNCF Transilien
 twitter: overflorian

@@ -2,7 +2,7 @@
 layout: event
 title: Presentation Of My Young OpenStreetMap Community & Share of Experience in Mobilising for Data Collection And Other Mapping Parties
 theme: local-community
-category: Local Community
+category: local-community
 name: Astou Nathalie SIDIBE
 organization: OpenStreetMap Mali
 twitter: Honorable_Nath

@@ -2,7 +2,7 @@
 layout: event
 title: What, where... WHEN ! Let's add another dimension with OpenEventDatabase
 theme: tools
-category: Tools
+category: tools
 name: Christian Quest
 organization: OpenStreetMap France
 twitter: openeventdb

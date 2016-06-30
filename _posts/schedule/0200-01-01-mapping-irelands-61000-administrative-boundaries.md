@@ -2,7 +2,7 @@
 layout: event
 title: Mapping Ireland's 61,000 administrative boundaries
 theme: local-community
-category: Local Community
+category: local-community
 name: Rory McCann & Dave Corley
 organization: OpenStreetMap Ireland
 twitter: lalonde & DaCor_ie

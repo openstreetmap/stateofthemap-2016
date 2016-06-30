@@ -2,7 +2,7 @@
 layout: event
 title: Railways at OpenStreetMap
 theme: tools
-category: Tools
+category: tools
 name: Michael Reichert
 organization:
 twitter: Nakaner

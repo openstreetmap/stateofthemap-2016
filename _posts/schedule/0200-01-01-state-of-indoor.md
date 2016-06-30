@@ -2,7 +2,7 @@
 layout: event
 title: State of Indoor
 theme: indoors
-category: Indoors
+category: indoors
 name: Pavel Zbytovský
 organization: OpenStreetMap.cz
 twitter: zbycz

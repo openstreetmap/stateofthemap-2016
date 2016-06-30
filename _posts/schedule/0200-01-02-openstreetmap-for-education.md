@@ -2,10 +2,10 @@
 layout: event
 title: OpenStreetMap for Educational Purposes
 theme: education
-category: Education
+category: education
 name: Louis-Julien de la Bouëre
 organization: Tiriad
-twitter: maggiemaps
+twitter: 
 osm:
 room: b
 tags:

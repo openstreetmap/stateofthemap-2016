@@ -2,7 +2,7 @@
 layout: event
 title: Comparing OSM data and Brussels local government data (UrbIS) in order to improve both databases
 theme: local-community
-category: Local Community
+category: local-community
 name: Ducobu Marc
 organization: Champs-Libres
 twitter: marcubu

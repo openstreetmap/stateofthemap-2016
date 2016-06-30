@@ -2,7 +2,7 @@
 layout: event
 title: Mapping the mediterranean, A horror story
 theme: local-community
-category: Local Community
+category: local-community
 name: Marco Montanari
 organization: CityOpenSource
 twitter: ingmmo

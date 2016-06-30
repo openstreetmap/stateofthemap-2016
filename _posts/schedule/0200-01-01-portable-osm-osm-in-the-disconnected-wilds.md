@@ -2,7 +2,7 @@
 layout: event
 title: Portable OSM. OSM in the Disconnected Wilds
 theme: technical
-category: Technical
+category: technical
 name: Emily Eros
 organization: American Red Cross
 twitter: emilyeros

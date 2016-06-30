@@ -2,7 +2,7 @@
 layout: event
 title: Building a Digital Humanitarian Society in Pakistan. A Perspective
 theme: local-community
-category: Local Community
+category: local-community
 name: Usman Latif
 organization: DigitalHumanitarians.pk
 twitter: usman_latif

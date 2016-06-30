@@ -2,7 +2,7 @@
 layout: event
 title: TeachOSM - Let's Revolutionize Geography Education Worldwide
 theme: education
-category: Education
+category: education
 name: Maggie Cawley
 organization: Boomerang Geospatial
 twitter: maggiemaps

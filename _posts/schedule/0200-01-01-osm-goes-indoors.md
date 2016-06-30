@@ -2,7 +2,7 @@
 layout: event
 title: OSM goes indoors. usages, tools and prospects
 theme: indoors
-category: Indoors
+category: indoors
 name: Antoine Riche
 organization: Carto'Cité
 twitter: cartocite
