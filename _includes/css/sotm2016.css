@@ -638,22 +638,21 @@ input#mce-EMAIL::selection {
 
 /* Category fills */
 .dot.fill-all                 { background-color:#ffffff; }
-.dot.fill-community           { background-color:#35b6ef; }
-.dot.fill-technical           { background-color:#96e185; }
-.dot.fill-tools               { background-color:#aebfd1; }
+.dot.fill-community-growth           { background-color:#35b6ef; }
+.dot.fill-analysis           { background-color:#96e185; }
+.dot.fill-education               { background-color:#aebfd1; }
 .dot.fill-humanitarian        { background-color:#77bce5; }
-.dot.fill-mapping-tools       { background-color:#a58771; }
-.dot.fill-analysis            { background-color:#abb9ed; }
-.dot.fill-impact-abroad        { background-color:#fa8e6c; }
-.dot.fill-imagery              { background-color:#f8d671; }
+.dot.fill-indoors      { background-color:#a58771; }
+.dot.fill-local-community            { background-color:#abb9ed; }
+.dot.fill-technical       { background-color:#fa8e6c; }
+.dot.fill-tools              { background-color:#f8d671; }
 .dot.fill-openstreetmap-org   { background-color:#7092ff; }
 .dot.fill-direction          { background-color:#ea5959; }
 .dot.fill-getting-around       { background-color:#a2fec3; }
-.dot.fill-outdoors            { background-color:#32d8e0; }
-.dot.fill-vector-rendering    { background-color:#1c618a; }
 .dot.fill-multi               { background-color:#db7cf2; }
-.dot.fill-panel               { background-color:#f8d671; }
-.dot.fill-workshops            { background-color:#3eab9f; }
+.dot.fill-tools               { background-color:#f8d671; }
+.dot.fill-Tools               { background-color:#f8d671; }
+.dot.fill-technical            { background-color:#3eab9f; }
 .dot.fill-lightning            { background-color:#f9d29d; }
 
 
@@ -727,15 +726,16 @@ input#mce-EMAIL::selection {
     padding-top: 3px;
 }
 
-.dark a.sessiontitle {
-    color: white;
+a.sessiontitle {
+    color: #0a0441;
     font-weight: bold;
-    font-size: 18px;
-    line-height: 27px;
-
+    font-size: 15px;
+    line-height: 23px;
+    font-family: 'Varela Round','Open Sans', sans-serif;
+    font-weight: 700;
 }
 
-.dark a:hover.sessiontitle {
+a:hover.sessiontitle {
     opacity: .8;
 }
 

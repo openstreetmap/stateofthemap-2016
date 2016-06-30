@@ -20,7 +20,7 @@
     {{post.title}}
   </a>
   <small class='col12 pin-bottomleft pad1'>
-    <span class='inline pad0 dot fill-{{post.category | replace: ' ','-' }}' title='{{post.theme}}'></span>
+    <span class='inline pad0 dot fill-{{post.category | downcase | replace: ' ','-' }}' title='{{post.theme}}'></span>
     {{post.name}}{% if post.organization %}, {{post.organization}}{% endif %}
   </small>
 </div>
