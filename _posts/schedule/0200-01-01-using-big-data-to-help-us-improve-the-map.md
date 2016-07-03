@@ -3,9 +3,9 @@ layout: event
 title: Using Big Data To Help Us Improve The Map
 theme: analysis
 category: analysis
-name: Adela Muresan
+name: Beata Jancso
 organization: Telenav
-twitter: adeladanam
+twitter: jancsobeata
 osm:
 room: a
 tags:
