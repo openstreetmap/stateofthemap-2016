@@ -3,7 +3,7 @@ layout: event
 title: A love-letter to OSM greetings from Brussels
 theme: local-community
 category: local-community
-name: Laura Nagels
+name: Pieter Brusselman
 organization: Trage Wegen vzw
 twitter:
 osm:
