@@ -11,4 +11,4 @@ room: b
 tags:
   - slot15
 ---
-MapContrib est un nouvel outil de contribution à OpenStreetMap, par les thématiques. Il se veut simple, web et mobile. Il a reçu un bon accueil au SOTM FR 2016, qu'en est-il du reste de la map ?
+MapContrib is a new tool to contribute to OpenStreetMap, built for thematic editing. It wants to be simple, for web and mobile. It was well recieved at SOTM FR 2016.
