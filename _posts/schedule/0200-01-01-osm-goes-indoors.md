@@ -7,9 +7,9 @@ name: Antoine Riche
 organization: Carto'Cité
 twitter: cartocite
 osm:
-room: a
+room: b
 tags:
-  - slot19
+  - slot4
 ---
 Over the last two years a lot of indoor mapping activity has been going on in France. All Paris train stations have been mapped to great details, along with shopping malls, museums, universities... A number of tools and techniques have been developed to assist mappers and visualize indoor maps. To name a few : iD-indoor, OpenLevelUp, a DIY 360° camera kit and indoor localisation script.  
 

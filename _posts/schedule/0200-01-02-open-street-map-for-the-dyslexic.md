@@ -7,9 +7,9 @@ name: Massimiliano Bernabé
 organization: Sinergis S.r.l.
 twitter: develost_com
 osm:
-room: b
+room: a
 tags:
-  - slot4
+  - slot19
 ---
 
 OSM for the dyslexic is a GIS application for Android to make OpenStreetMap accessible by dyslexics, mitigating common reading errors.

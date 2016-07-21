@@ -7,9 +7,9 @@ name: Sajjad Anwar
 organization: Mapbox
 twitter: geohacker
 osm:
-room:
-tags: b
-  - slot3
+room: a
+tags: 
+  - slot18
 ---
 OpenStreetMap today is much more than a street map. The data is used for navigation, data visualisation, art, urban planning and much more. Today, there were over 20k changesets - making OSM one of the most active open data projects with great adoption. Accidental edits and attempts at vandalism make a bigger impact than they used to. We at Mapbox are learning about these problems and approaching them holistically - fixing issues every day, using existing tools, improving editing software, and building new tools and workflows for emerging problems.
 
