@@ -7,7 +7,7 @@ name: Sajjad Anwar
 organization: Mapbox
 twitter: geohacker
 osm:
-room: b
+room: a
 tags: 
   - slot18
 ---
