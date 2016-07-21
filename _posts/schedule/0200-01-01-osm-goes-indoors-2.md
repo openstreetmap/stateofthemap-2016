@@ -3,9 +3,9 @@ layout: event
 title: OSM goes indoors. why we mapped 400 train stations in Paris
 theme: indoors
 category: indoors
-name: florian lainez
+name: Cynthia Gutton
 organization: SNCF Transilien
-twitter: overflorian
+twitter:
 osm:
 room: b
 tags:
