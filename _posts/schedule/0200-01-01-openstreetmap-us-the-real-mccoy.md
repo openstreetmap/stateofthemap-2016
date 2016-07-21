@@ -1,6 +1,6 @@
 ---
 layout: event
-title: OpenStreetMap US: The Real McCoy
+title: OpenStreetMap US - The Real McCoy
 theme: local-community
 category: local-community
 name: Drishtie Patel, Alyssa Wright, Ian Dees, Alex Barth, Martijn van Exel
