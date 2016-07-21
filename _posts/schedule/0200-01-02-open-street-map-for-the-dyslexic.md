@@ -9,7 +9,7 @@ twitter: develost_com
 osm:
 room: b
 tags:
-  - slot4
+  - slot19
 ---
 
 OSM for the dyslexic is a GIS application for Android to make OpenStreetMap accessible by dyslexics, mitigating common reading errors.
