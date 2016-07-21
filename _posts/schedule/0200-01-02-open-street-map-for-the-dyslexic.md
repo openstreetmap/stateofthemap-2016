@@ -7,7 +7,7 @@ name: Massimiliano Bernabé
 organization: Sinergis S.r.l.
 twitter: develost_com
 osm:
-room: b
+room: a
 tags:
   - slot19
 ---
