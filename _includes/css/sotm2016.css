@@ -642,12 +642,12 @@ input#mce-EMAIL::selection {
 .dot.fill-analysis           { background-color:#96e185; }
 .dot.fill-education               { background-color:#aebfd1; }
 .dot.fill-humanitarian        { background-color:#77bce5; }
-.dot.fill-indoors      { background-color:#a58771; }
+.dot.fill-indoors                    { background-color:#a58771; }
 .dot.fill-local-community            { background-color:#abb9ed; }
-.dot.fill-technical       { background-color:#fa8e6c; }
+.dot.fill-technical             { background-color:#fa8e6c; }
 .dot.fill-tools              { background-color:#f8d671; }
 .dot.fill-openstreetmap-org   { background-color:#7092ff; }
-.dot.fill-direction          { background-color:#ea5959; }
+.dot.fill-birds-of-feather      { background-color:#ea5959; }
 .dot.fill-getting-around       { background-color:#a2fec3; }
 .dot.fill-multi               { background-color:#db7cf2; }
 .dot.fill-tools               { background-color:#f8d671; }
@@ -683,7 +683,11 @@ input#mce-EMAIL::selection {
 
 .program-blocks .program-block {
   min-height:180px;
-  }/*
+  }
+
+  .program-blocks .program-block.program-block-tall {
+    min-height: 195px;
+}/*
   .program-blocks .program-block:first-child { border-right-width:0; }*/
   .program-blocks .program-block:last-child { border-left-width:0; }
 
