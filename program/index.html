@@ -20,6 +20,8 @@ themes:
     label: Technical
   - key: tools
     label: Tools
+  - key: birds-of-feather
+    label: Birds of feather
 ---
 
     <div class='pad4y col12 clearfix prose'>
@@ -37,7 +39,7 @@ themes:
               <li><b>Saturday, September 24th:</b> We move to day two of State of the Map. Our scheduled program of talks is below, and "Birds of a feather" sessions are possible. In the evening join us at <a href="http://eventbrewery.eu/">Brussels Event Brewery</a> for free food and drink.</li>
               <li><b>Sunday, September 25th:</b> The third and final day of State of the Map will focus on workshops and sharing knowledge. Together we'll discover the next great thing in mapping and hacking but please be kind to our network (bandwidth currently unconfirmed).</li>
               <li><b>Monday, September 26th:</b> The local geospatial and open source communities are currently looking to set up a dedicated developer hack day. (tbd)</li>
-            </ul> 
+            </ul>
             <h1 class="color-purple2 spartan">Our program</h1>
             <p class='sans'>We've got an amazing program of talks and workshops lined up for you. The difficult bit is deciding which track to go to. All the info on the talks is provided below.</p>
           </div>
@@ -462,243 +464,86 @@ themes:
 
       <!-- SUNDAY -->
       <h2>Sunday</h2>
-      <div class="">
-        <p>The Sunday program will be added shortly. It will focus on workshops and sharing knowledge. Together we'll discover the next great thing in mapping and hacking but please be kind to our network (bandwidth currently unconfirmed).</p>
+
+      <div data-title="Sunday 9:30am" class="program-block keyline-all fill-lighten0">
+        <label>
+          <span class="pad1 inline fill-darken0 keyline-right timestamp">9:00am</span>
+          <span class="pad1 inline">Coffee / Tea</span>
+        </label>
       </div>
-      <!--
-      <div data-title="Sunday 8:00am" class="program-block keyline-all fill-lighten0">
-          <label>
-            <span class="pad1 inline fill-darken0 keyline-right timestamp">8:00am</span>
-            <span class="pad1 inline">Coffee / Tea</span>
-          </label>
-        </div>
-        <div data-title="Sunday 9:00am" class="pad1 fill-darken0 program-block keyline-left keyline-right keyline-bottom">
-          <label>9:00am</label>
-        </div>
-        <div class="col12 program-blocks keyline-bottom clearfix">
 
-            <div data-category="workshop" class="col4 prose pad1 program-block animate contain keyline-left keyline-right">
-              <label>
-                <span class="room">Pigott 101</span>
-                <span class="light"> 49 people</span>
-              </label>
-              <div class="sans block space-top2 sessiontitle space-bottom1">
-               Make maps more ​interactive​ with the magic of a geocoding search box
-              </div>
-              <label><span class="round space-top2 fill-lighten1 micro strong pad1x pad0y">Geocoding</span></label>
-              <small class="col12 pin-bottomleft pad1 space-top2">
-                <span class="inline pad0 dot fill-workshops" title="workshops"></span>
-                Rhonda Glennon, Diana Shkolnikov
-              </small>
-            </div>
+      <div data-title="Sunday 10:00am" class="pad1 fill-darken0 program-block keyline-left keyline-right keyline-bottom">
+        <label>10:00am</label>
+      </div>
+      <div class="col12 program-blocks clearfix">
+        {% for post in site.tags.slot31 reversed | sort:track %}
+        {% include slot-item-small.html %}
+        {% endfor %}
+      </div>
 
+      <div data-title="Sunday 11:15am" class="program-block keyline-all fill-lighten0">
+        <label>
+          <span class="pad1 inline fill-darken0 keyline-right timestamp">11:00am</span>
+          <span class="pad1 inline">Break</span>
+        </label>
+      </div>
 
-            <div data-category="workshop" class="col4 prose pad1 program-block animate contain keyline-right">
-              <label>
-                <span class="room">Pigott 102</span>
-                <span class="light"> 49 people</span>
-              </label>
-              <div class="sans block space-top2 sessiontitle space-bottom1">
-                Make an interactive map with OSM data!
-              </div>
-              <label><span class="round space-top2 fill-lighten1 micro strong pad1x pad0y">Make maps</span></label>
-              <small class="col12 pin-bottomleft pad1">
-                <span class="inline pad0 dot fill-workshops space-top2" title="workshops"></span>
-                Lyzi Diamond, Dan Swick
-              </small>
-            </div>
+      <div data-title="Sunday 11:45am" class="pad1 fill-darken0 program-block keyline-left keyline-right keyline-bottom">
+        <label>11:30am</label>
+      </div>
+      <div class="col12 program-blocks clearfix">
+        {% for post in site.tags.slot32 reversed | sort:track %}
+        {% include slot-item-small.html %}
+        {% endfor %}
+      </div>
 
 
-            <div data-category="workshop" class="col4 prose pad1 program-block animate contain keyline-left keyline-right">
-              <label>
-                <span class="room">Pigott 108</span>
-                <span class="light"> 30 people</span>
-              </label>
-              <div class="sans block space-top2 sessiontitle space-bottom1">
-               How to make the most out of OSM Evangelization
-              </div>
-              <label><span class="round space-top2 fill-lighten1 micro strong pad1x pad0y">Community building</span></label>
-              <small class="col12 pin-bottomleft pad1">
-                <span class="inline pad0 dot fill-workshops space-top2" title="workshops"></span>
-                Javier Carranza
-              </small>
-            </div>
-        </div>
+      <div data-title="Sunday 1:00pm" class="program-block keyline-left keyline-right keyline-bottom fill-lighten0">
+        <label>
+          <span class="pad1 inline fill-darken0 keyline-right timestamp">1:00pm</span>
+          <span class="pad1 inline">Lunch</span>
+        </label>
+      </div>
 
-        <div data-title="Sunday 10:30am" class="pad1 fill-darken0 program-block keyline-left keyline-right keyline-bottom">
-          <label>10:30am</label>
-        </div>
-        <div class="col12 program-blocks keyline-bottom clearfix">
+      <div data-title="Sunday 2:00pm" class="pad1 fill-darken0 program-block keyline-left keyline-right keyline-bottom">
+        <label>2:00pm</label>
+      </div>
+      <div class="col12 program-blocks clearfix">
+        {% for post in site.tags.slot33 reversed | sort:track %}
+        {% include slot-item-small.html %}
+        {% endfor %}
+      </div>
 
-            <div data-category="workshop" class="col4 prose pad1 program-block animate contain keyline-left keyline-right">
-              <label>
-                <span class="room">Pigott 101</span>
-                <span class="light"> 49 people</span>
-              </label>
-              <div class="sans block space-top2 sessiontitle space-bottom1">
-                Interpreting Satellite Imagery for OpenStreetMap
-              </div>
-              <label><span class="round space-top2 fill-lighten1 micro strong pad1x pad0y">Geocoding</span></label>
-              <small class="col12 pin-bottomleft pad1">
-                <span class="inline pad0 dot fill-workshops space-top2" title="workshops"></span>
-               James Sondag and Christopher Orndorff
-              </small>
-            </div>
+      <div data-title="Sunday 3:15pm" class="program-block keyline-left keyline-right keyline-bottom fill-lighten0">
+        <label>
+          <span class="pad1 inline fill-darken0 keyline-right timestamp">3:30pm</span>
+          <span class="pad1 inline">Break</span>
+        </label>
+      </div>
+
+      <div data-title="Sunday 3:45pm" class="pad1 fill-darken0 program-block keyline-left keyline-right keyline-bottom">
+        <label>4:00pm</label>
+      </div>
+      <div class="col12 program-blocks clearfix">
+        {% for post in site.tags.slot34 reversed | sort:track %}
+        {% include slot-item-small.html %}
+        {% endfor %}
+      </div>
 
 
-            <div data-category="workshop" class="col4 prose pad1 program-block animate contain keyline-right">
-              <label>
-                <span class="room">Pigott 102</span>
-                <span class="light"> 49 people</span>
-              </label>
-              <div class="sans block space-top2 sessiontitle space-bottom1">
-               Rendering your own maps
-              </div>
-              <label><span class="round space-top2 fill-lighten1 micro strong pad1x pad0y">Make maps</span></label>
-              <small class="col12 pin-bottomleft pad1">
-                <span class="inline pad0 dot fill-workshops space-top2" title="workshops"></span>
-                Paul Norman
-              </small>
-            </div>
+      <div data-title="Sunday 5:00pm" class="program-block keyline-left keyline-right keyline-bottom fill-lighten0">
+        <label>
+          <span class="pad1 inline fill-darken0 keyline-right timestamp">5:00pm</span>
+          <span class="pad1 inline">Closing plenary</span>
+        </label>
+      </div>
 
-
-            <div data-category="workshop" class="col4 prose pad1 program-block animate contain keyline-right">
-              <label>
-                <span class="room">Pigott 108</span>
-                <span class="light"> 30 people</span>
-              </label>
-              <div class="sans block space-top2 sessiontitle space-bottom1">
-               Making mapping fun and engaging future mappers
-              </div>
-              <label><span class="round space-top2 fill-lighten1 micro strong pad1x pad0y">Community building</span></label>
-              <small class="col12 pin-bottomleft pad1">
-                <span class="inline pad0 dot fill-workshops space-top2" title="workshops"></span>
-                Miriam Gonzalez
-              </small>
-            </div>
-        </div>
-
-
-      <div data-title="Sunday 12:00pm" class="program-block keyline-left keyline-right keyline-bottom fill-lighten0">
-          <label>
-            <span class="pad1 inline fill-darken0 keyline-right timestamp">12:00pm</span>
-            <span class="pad1 inline">Lunch</span>
-          </label>
-        </div>
-
-
-        <div data-title="Sunday 13:00pm" class="pad1 fill-darken0 program-block keyline-left keyline-right keyline-bottom">
-          <label>13:00pm</label>
-        </div>
-        <div class="col12 program-blocks keyline-bottom clearfix">
-
-            <div data-category="workshop" class="col4 prose pad1 program-block animate contain keyline-left keyline-right workshop">
-              <label>
-                <span class="room">Pigott 101</span>
-                <span class="light"> 49 people</span>
-              </label>
-              <div class="sans block space-top2 sessiontitle space-bottom1">
-                 Let's add bike-share stations to OSM
-              </div>
-              <label><span class="round space-top2 fill-lighten1 micro strong pad1x pad0y">tagging and mapping</span></label>
-              <small class="col12 pin-bottomleft pad1">
-                <span class="inline pad0 dot fill-workshops space-top2" title="workshops"></span>
-               Jim Walseth
-              </small>
-            </div>
-
-
-            <div data-category="workshop" class="col4 prose pad1 program-block animate contain workshop">
-              <label>
-                <span class="room">Pigott 102</span>
-                <span class="light"> 49 people</span>
-              </label>
-              <div class="sans block space-top2 sessiontitle space-bottom1">
-                Faites vos jeux - Here's the New MapRoulette
-              </div>
-              <label><span class="round space-top2 fill-lighten1 micro strong pad1x pad0y">contribute to tools</span></label>
-              <small class="col12 pin-bottomleft pad1">
-                <span class="inline pad0 dot fill-workshops space-top2" title="workshops"></span>
-                 Martijn van Exel
-              </small>
-            </div>
-
-
-            <div data-category="workshop" class="col4 prose pad1 program-block animate contain keyline-left keyline-right workshop">
-              <label>
-                <span class="room">Pigott 108</span>
-                <span class="light"> 30 people</span>
-              </label>
-              <div class="sans block space-top2 sessiontitle space-bottom1">
-               OpenDroneMap <3 OpenAerialMap <3 OpenStreetMap
-              </div>
-              <label><span class="round space-top2 fill-lighten1 micro strong pad1x pad0y">flying</span></label>
-              <small class="col12 pin-bottomleft pad1">
-                <span class="inline pad0 dot fill-workshops space-top2" title="workshops"></span>
-                Stephen Mather, Cristiano Giovando, Nate Smith
-              </small>
-            </div>
-        </div>
-
-        <div data-title="Sunday 14:30pm" class="pad1 fill-darken0 program-block keyline-left keyline-right keyline-bottom">
-          <label>14:30pm</label>
-        </div>
-        <div class="col12 program-blocks keyline-bottom clearfix">
-
-            <div data-category="workshop" class="col4 prose pad1 program-block animate contain keyline-left keyline-right workshop">
-              <label>
-                <span class="room">Pigott 101</span>
-                <span class="light"> 49 people</span>
-              </label>
-              <div class="sans block space-top2 sessiontitle space-bottom1">
-                Tagging and mapping for routing and navigation
-              </div>
-              <label><span class="round space-top2 fill-lighten1 micro strong pad1x pad0y">tagging and mapping</span></label>
-              <small class="col12 pin-bottomleft pad1">
-                <span class="inline pad0 dot fill-workshops space-top2" title="workshops"></span>
-                Sivaram Ramachandran
-              </small>
-            </div>
-
-
-            <div data-category="workshop" class="col4 prose pad1 program-block animate contain workshop">
-              <label>
-                <span class="room">Pigott 102</span>
-                <span class="light"> 49 people</span>
-              </label>
-              <div class="sans block space-top2 sessiontitle space-bottom1">
-                Customizing iD for Developers
-              </div>
-              <label><span class="round space-top2 fill-lighten1 micro strong pad1x pad0y">contribute to tools</span></label>
-              <small class="col12 pin-bottomleft pad1">
-                <span class="inline pad0 dot fill-workshops space-top2" title="workshops"></span>
-                Bryan Housel
-              </small>
-            </div>
-
-
-            <div data-category="workshop" class="col4 prose pad1 program-block animate contain keyline-left keyline-right workshop">
-              <label>
-                <span class="room">Pigott 108</span>
-                <span class="light"> 30 people</span>
-              </label>
-              <div class="sans block space-top2 sessiontitle space-bottom1">
-               OpenDroneMap <3 OpenAerialMap <3 OpenStreetMap
-              </div>
-              <label><span class="round space-top2 fill-lighten1 micro strong pad1x pad0y">flying</span></label>
-              <small class="col12 pin-bottomleft pad1">
-                <span class="inline pad0 dot fill-workshops space-top2" title="workshops"></span>
-                Stephen Mather, Cristiano Giovando, Nate Smith
-              </small>
-            </div>
-        </div>
-
-      <div data-title="Sunday 16:00pm" class="program-block keyline-left keyline-right keyline-bottom fill-lighten0">
-          <label>
-            <span class="pad1 inline fill-darken0 keyline-right timestamp">16:00pm</span>
-            <span class="pad1 inline">End</span>
-          </label>
-        </div>
+      <div data-title="Sunday 5:30pm" class="program-block keyline-left keyline-right keyline-bottom fill-lighten0">
+        <label>
+          <span class="pad1 inline fill-darken0 keyline-right timestamp">5:30pm</span>
+          <span class="pad1 inline">End</span>
+        </label>
+      </div>
 
 
 
@@ -714,7 +559,7 @@ themes:
         </div>
         </div>
       </div>
-    -->
+
 
 
     </div>
