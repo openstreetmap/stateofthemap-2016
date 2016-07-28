@@ -484,7 +484,8 @@ themes:
         <label>10:00am</label>
       </div>
       <div class="col12 program-blocks clearfix">
-        {% for post in site.tags.slot31 reversed | sort:track %}
+        {% assign posts = site.tags.slot31 | sort:"track" %}
+        {% for post in posts %}
         {% include slot-item-small.html %}
         {% endfor %}
       </div>
@@ -500,7 +501,8 @@ themes:
         <label>11:45am</label>
       </div>
       <div class="col12 program-blocks clearfix">
-        {% for post in site.tags.slot32 reversed | sort:track %}
+        {% assign posts = site.tags.slot32 | sort:"track" %}
+        {% for post in posts %}
         {% include slot-item-small.html %}
         {% endfor %}
       </div>
@@ -517,7 +519,8 @@ themes:
         <label>2:00pm</label>
       </div>
       <div class="col12 program-blocks clearfix">
-        {% for post in site.tags.slot33 reversed | sort:track %}
+        {% assign posts = site.tags.slot33 | sort:"track" %}
+        {% for post in posts %}
         {% include slot-item-small.html %}
         {% endfor %}
       </div>
@@ -533,7 +536,8 @@ themes:
         <label>3:45pm</label>
       </div>
       <div class="col12 program-blocks clearfix">
-        {% for post in site.tags.slot34 reversed | sort:track %}
+        {% assign posts = site.tags.slot34 | sort:"track" %}
+        {% for post in posts %}
         {% include slot-item-small.html %}
         {% endfor %}
       </div>
