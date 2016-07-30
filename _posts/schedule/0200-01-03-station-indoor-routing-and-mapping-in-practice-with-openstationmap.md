@@ -11,7 +11,7 @@ capacity: 500
 room: Room QA
 track: 1
 tags:
-  - slot34
+  - slot33
 ---
 The typical public transit station is used by tens of thousands of passengers each day. Due to their complexity a lot of mappers feel overwhelmed with editing stations. Furthermore lots of important features like fare gates do not have an established tagging yet. 
 
