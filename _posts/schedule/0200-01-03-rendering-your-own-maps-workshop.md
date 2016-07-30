@@ -11,6 +11,6 @@ capacity: 30
 room: Building D/Room 2
 track: 6
 tags:
-  - slot33
+  - slot31
 ---
 This workshop will take you through setting up your own map rendering server using OpenStreetMap data. Basic Linux and PostgreSQL knowledge is required, as well as a computer or virtual machine running Ubuntu 16.04.
