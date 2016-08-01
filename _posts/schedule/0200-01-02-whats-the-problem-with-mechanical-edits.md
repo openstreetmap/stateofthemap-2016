@@ -1,14 +1,16 @@
 ---
 layout: event
-title: What's the problem with mechanical edits?
+title: Tiles under heavy artillery - serving one billion maps per month?
 theme: technical
 category: technical
-name: Frederik Ramm
-organization:
-twitter:
+name: Loic Ortola
+organization: Jawg
+twitter: jawgio
 osm:
 room: b
 tags:
   - slot10
 ---
-This talk explains why so-called "mechanical edits" - edits in which the mapper changes a larger number of objects without looking at them individually, or edits in which the mapper is a computer program - can be detrimental to OpenStreetMap. It outlines the frequent pitfalls waiting for those who attempt mechanical edits, and explains the correct procedures for performing them.
+Some people wonder whether OSM can be a great fit for their business. In this talk, we are not going to discuss the documentation, maintainability, updates, and robustness issues of OSM-based maps. Neither will we try convincing you that going for OSM is an easy task.
+
+In this talk, we decided to save our breath, take out our heaviest Gatling weaponry and start shooting instead. Can serving maps with OSM be an efficient, distributed, business-grade system? Bring your bulletproof vest and come find out.
