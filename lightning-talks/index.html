@@ -12,7 +12,28 @@ color: fill-midnight
 	<div class="space-bottom4">
 		<h1 class="small-title text-blue-light">Lightning talks</h1>
 	</div>
-	<p>Coming soon</p>
+	  {% for post in site.posts %}
+
+  		{% if post.category == 'lightning' %}
+
+        {% unless post.visibility == false %}
+
+  		<div class="fill-lighten0 pad2x pad2y round clearfix  space-bottom1 clearfix">
+  		<div class="col11 margin1r">
+  			<h2 class="space-bottom0">{{post.title}}</h2>
+  			<span class="quiet small space-bottom2">by {{post.name}}</span>
+  			<div class="prose space-bottom2 space-top1">{{ post.content | truncatewords: 30 }}</div>
+  				<a href="{{post.url}}" class="pad2x pad0y button fill-pink round-big" >Learn more</a>
+  		</div>
+  		</div>
+
+
+      {% endunless %}
+
+  	{% endif %}
+
+  {% endfor %}
+
 
         <a
           href='{{site.baseurl}}/program'

@@ -9,6 +9,7 @@ name: "Multiple speakers"
 room: a
 tags:
   - slot10
+visibility: false
 ---
 
 More details soon
