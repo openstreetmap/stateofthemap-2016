@@ -3,7 +3,7 @@ layout: event
 title: Improving the canvas for participatory mapping in Tanzania
 theme: community-growth
 category: community-growth
-name: Egle Marija Ramanauskaite
+name: Egle Marija Ramanauskaite, Janet Chapman
 organization: Crowd2Map
 twitter: crowd2map
 osm:
