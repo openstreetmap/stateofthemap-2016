@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "OSM Hall Monitor: Tracking Objects, Tags, and Users"
+title: "OSM Hall Monitor: Tracking objects, tags, and users"
 name: Ethan Nelson
 organization:
 theme: multi
