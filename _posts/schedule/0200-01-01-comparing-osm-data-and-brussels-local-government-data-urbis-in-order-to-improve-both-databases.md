@@ -1,9 +1,9 @@
 ---
 layout: event
-title: Comparing OSM data and Brussels local government data in order to improve both databases
+title: Comparing OSM data and Brussels local government data
 theme: local-community
 category: local-community
-name: Ducobu Marc
+name: Marc Ducobu
 organization: Champs-Libres
 twitter: marcubu
 osm:
