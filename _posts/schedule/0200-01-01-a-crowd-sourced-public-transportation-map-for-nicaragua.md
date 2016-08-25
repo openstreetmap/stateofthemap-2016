@@ -1,18 +1,16 @@
 ---
 layout: event
-title: A crowd-sourced public transportation map for Nicaragua's capital
+title: Nicaragua's new crowd-sourced bus map - lessons learnt
 theme: tools
 category: tools
 name: Eduardo Augusto Mayorga, Felix Delattre
 organization: MapaNica
-twitter: xamanu
+twitter: mayorgatellez, xamanu
 osm:
 room: a
 tags:
   - slot2
 ---
-There has been no map for the forty-five bus lines in Metropolitan Managua, where around 1.5 million inhabitants are dependent on buses to commute to work or school. But engaged citizens used Free Technology and the power of collaboration to create the first complete public transportation map of a Central American capital, by using OpenStreetMap and through crowd-sourcing and also crowd-funding methods.
+In Managua, Nicaragua, over 1.5 million inhabitants are dependent on public transport but until now there had been no map of the 45 bus lines. Using free technology, crowd-funding and the power of collaboration, engaged citizens worked together to create the first complete public transportation map of any Central American capital.
 
-We present the final products and talk about the publication of our outcomes as Open Data. We will also mention the local challenges and the nature of creating a map of informal transit information of a partially unregulated bus network.
-
-It is a case study about Open Geo Software can empower people and enhance development, in places where, like in grand parts of the world, information about transportation is lacking.
+Felix and Eduardo Augusto will discuss how they achieved what the government office for public transport and the bus companies failed to. Not only will they present the final products, but by sharing the lessons learnt during surveying and creating open data in a developing country, they hope to inspire you too.
