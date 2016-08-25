@@ -1,6 +1,6 @@
 ---
 layout: event
-title: TeachOSM - Let's Revolutionize Geography Education Worldwide
+title: TeachOSM - harnessing the power of OpenStreetMap for geography education
 theme: education
 category: education
 name: Maggie Cawley
@@ -11,4 +11,6 @@ room: b
 tags:
   - slot18
 ---
-TeachOSM is dedicated to making OpenStreetMap the on-ramp to a rich world of open source mapping tools and educational activities. Geography education is lacking in many corners of the world. We believe OSM and other open source geospatial tools can be used to teach the fundamental concepts of geography and mapping to all age levels. This talk will feature experiences and lessons learned during TeachOSM professional and youth workshops in the Caribbean and Mauritius. Workshops focused on the use of OpenStreetMap, open data, and QGIS to strengthen economies and build accurate maps of the local communities. During this talk, I will share these experiences, discuss the TeachOSM vision, and solicit ideas from the packed room of attendees. Join me and find out how TeachOSM can make OpenStreetMap the platform to revolutionize & open source geography education!
+TeachOSM is dedicated to making OpenStreetMap the on-ramp to a rich world of open source mapping tools and educational activities. Because of their low cost and relative accessibility, OpenStreetMap and the related ecology of open source geospatial tools are ideal for teaching the fundamental concepts of geography and mapping. 
+
+This talk will feature case studies of TeachOSM workshops in the Caribbean and Mauritius that focused on the use of OpenStreetMap, open data, and QGIS. These projects show how teaching open mapping techniques contribute to strengthening economies and providing accurate maps of the local communities. OSM has led to the delivery a new generation geospatial tools that have the potential to improve geography education. Join Maggie and help make a plan to bring OpenStreetMap into classrooms all over the world.

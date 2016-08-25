@@ -1,10 +1,10 @@
 ---
 layout: event
-title: Making mapping fun and engaging new mappers
+title: "Learn to map: Making mapping fun"
 theme: education
 category: education
 name: Miriam Gonzalez
-organization: 
+organization: OpenStreetMap Mexico & Telenav
 twitter: mapanauta
 osm:
 capacity: 30

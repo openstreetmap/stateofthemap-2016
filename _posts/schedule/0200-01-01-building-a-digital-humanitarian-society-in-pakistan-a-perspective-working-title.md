@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Building a Digital Humanitarian Society in Pakistan. A Perspective
+title: "Building a digital humanitarian society in pakistan: A perspective"
 theme: local-community
 category: local-community
 name: Usman Latif
@@ -11,4 +11,6 @@ room: a
 tags:
   - slot22
 ---
-Crowdsourced mapping in Pakistan is difficult now. The bill India recently published to control the geospatial information, Pakistan did something similar back in 2013. There's a ban on unauthorized mapping and this has put a dent in crowdsourced mapping in Pakistan. Unfortunately, unlike in India's case, it's not really obvious to the Pakistan community or the rest of the world, that this is not a small thing. In such circumstances, I am trying to create a digital humanitarian society in Pakistan by teaching OSM to the new generations of digital humanitarians. My story will offer my perspective, my 10 years of experience working under difficult circumstances and with unique challenges, why this is important to us, what are we going to do and how can we participate in the global humanitarian activities until Pakistan lets us or asks us to help Pakistan. I expect to inform the policy makers at all levels to share the perspective from the Pakistan community over a long history.
+Many of us heard about the bill India recently published to control the geospatial information, but were you aware that a  ban on unauthorized mapping already exists in Pakistan? This has put a  dent in crowdsourced mapping in Pakistan but all is not lost.
+
+Usman will describe how he is trying to create a digital humanitarian society in Pakistan by teaching OSM to the new generations of digital humanitarians. He will offer his perspective gained from 10 years of experience overcoming unique challenges, why it's important to him, and how Pakistanis can participate in the global humanitarian activities until inpite of the ban.
