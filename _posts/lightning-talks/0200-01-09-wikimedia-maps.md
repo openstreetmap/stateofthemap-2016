@@ -2,12 +2,11 @@
 layout: event
 title: Wikipedia Maps
 name: Yuri Astrakhan
-organization: Wikimedia
+organization: Wikimedia Foundation
 theme: multi
 category: lightning
-twitter:
+twitter: nyuriks
 length: 5min
 osm:
 ---
-
-I would like to tell how Wikipedia is building a map service using OSM data, how we would like to encourage closer ties between OSM and Wikipedia communities, and possibly cover the technical aspects of the new service we built.
+Yuri will describe how Wikipedia is building a map service using OSM data and discuss how Wikimedia would like to encourage closer ties between OSM and Wikipedia communities. If time permits he will cover the technical aspects of the new service they built.
