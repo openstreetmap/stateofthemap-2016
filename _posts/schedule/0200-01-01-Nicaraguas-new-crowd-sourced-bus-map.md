@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Nicaragua's new crowd-sourced bus map - lessons learnt
+title: "Nicaragua's new crowd-sourced bus map: Lessons learnt"
 theme: tools
 category: tools
 name: Eduardo Augusto Mayorga, Felix Delattre
