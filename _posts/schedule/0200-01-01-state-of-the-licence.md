@@ -1,6 +1,6 @@
 ---
 layout: event
-title: State of the Licence
+title: State of the licence
 theme: community-growth
 category: community-growth
 name: Simon Poole

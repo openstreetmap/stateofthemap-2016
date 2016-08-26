@@ -1,6 +1,6 @@
 ---
 layout: event
-title: OSM goes indoors - why SNCF Transilien mapped 388 train stations with OpenStreetMap
+title: "OSM goes indoors: Why SNCF Transilien mapped 388 train stations with OpenStreetMap"
 theme: indoors
 category: indoors
 name: Cynthia Gutton
