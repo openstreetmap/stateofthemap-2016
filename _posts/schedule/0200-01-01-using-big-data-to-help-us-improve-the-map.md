@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Using big dsta to help us improve the map
+title: Using big data to help us improve the map
 theme: analysis
 category: analysis
 name: Beata Jancso
