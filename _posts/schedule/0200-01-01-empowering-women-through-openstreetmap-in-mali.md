@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Empowering women and the work of the Malian OpenStreetMap community
+title: Empowering women through OpenStreetMap in Mali
 theme: local-community
 category: local-community
 name: Astou Nathalie Sidibe
