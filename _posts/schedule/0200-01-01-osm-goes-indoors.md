@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "OSM goes indoors: usages, tools and prospects"
+title: "OSM goes indoors: Usages, tools and prospects"
 theme: indoors
 category: indoors
 name: Antoine Riche
