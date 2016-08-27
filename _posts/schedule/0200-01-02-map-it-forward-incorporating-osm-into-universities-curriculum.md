@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Map It Forward. Incorporating OSM into Universities Curriculum
+title: "Map It Forward: Incorporating OSM into the universities curriculum"
 theme: education
 category: education
 name: Vasanthi Hargyono
