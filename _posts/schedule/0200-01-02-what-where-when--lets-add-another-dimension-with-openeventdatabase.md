@@ -1,6 +1,6 @@
 ---
 layout: event
-title: What, where... WHEN! Let's add another dimension with OpenEventDatabase
+title: What, where... when! Let's add another dimension with OpenEventDatabase
 theme: tools
 category: tools
 name: Christian Quest
