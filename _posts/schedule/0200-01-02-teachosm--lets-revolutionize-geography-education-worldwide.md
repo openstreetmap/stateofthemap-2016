@@ -1,6 +1,6 @@
 ---
 layout: event
-title: TeachOSM - harnessing the power of OpenStreetMap for geography education
+title: "TeachOSM: Harnessing the power of OpenStreetMap for geography education"
 theme: education
 category: education
 name: Maggie Cawley
