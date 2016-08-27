@@ -1,6 +1,6 @@
 ---
 layout: event
-title: MapContrib - Thematic OpenStreetMap contribution
+title: "MapContrib: Thematic OpenStreetMap contribution"
 theme: technical
 category: technical
 name: Guillaume Amat
