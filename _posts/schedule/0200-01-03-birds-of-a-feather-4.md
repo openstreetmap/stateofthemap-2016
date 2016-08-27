@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Birds of a Feather
+title: Birds of a feather
 theme: birds-of-feather
 category: birds-of-feather
 name: 
