@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Local Chapters Congress
+title: Local Chapters congress
 theme: local-community
 category: local-community
 name: Mikel Maron

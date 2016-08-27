@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Converting a regular carto project to vector tiles - OSM-carto case study
+title: "Converting a regular carto project to vector tiles: OSM-carto case study"
 theme: technical
 category: technical
 name: Rory McCann

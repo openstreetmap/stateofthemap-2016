@@ -1,6 +1,6 @@
 ---
 layout: event
-title: OSM for Traffic Simulation
+title: OSM for traffic simulation
 theme: tools
 category: tools
 name: Michael Zilske

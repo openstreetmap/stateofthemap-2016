@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Tiles under heavy artillery - serving one billion maps per month?
+title: "Tiles under heavy artillery: Serving one billion maps per month"
 theme: technical
 category: technical
 name: Loic Ortola

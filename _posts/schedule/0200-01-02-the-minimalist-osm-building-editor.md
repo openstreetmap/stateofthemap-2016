@@ -11,19 +11,6 @@ room: b
 tags:
   - slot16
 ---
-Today OpenStreetMap has 188 M buildings tagged.
+Today OpenStreetMap has mapped 188 million buildings. This is an awesome number! But for the majority little more than a geometry footprint is available. For spatial orientation, navigation, solar potential analysis, risk detection and others there is a demand for more specific tagging. Using a new focused editor you can help collect this data without worrying about other OSM data.
 
-This is an awesome number! But majority has not much more than a footprint geometry available.
-
-For spatial orientation, navigation, solar potential analysis, risk detection and others there is a demand for more specific tagging.
-
-For a larger audience it's inconvenient to use a fully featured OSM editor or to deal with geometry aspects.
-
-"Brick" (Working title) offers a minimalistic set of editable attributes, i.e. height, color, building purpose, roof type.
-It runs as a mobile web application and thus is available to everyone without installation and ready for instant editing.
-
-Thanks to OSM API and an OSM Buildings viewer, results are visible immediately.
-
-In my talk, I'll guide you through the editor. It'll be be a short tour as it is simple to use. I'll also discuss the technical aspects.
-
-I'd like you to use it during the session and looking forward for your feedback.
+Brick (working title) offers a minimalistic set of editable attributes: height, colour, building purpose, roof type. It runs as a mobile web application and thanks to OSM API and an OSM Buildings viewer, results are visible immediately. In this talk, Jan will guide you through the editor and discuss the technical aspects. Use Brick it during the session provide feedback.

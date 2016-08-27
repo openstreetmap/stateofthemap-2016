@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Staying on the right side - best practices in editing
+title: "Staying on the right side: Best practices in editing"
 theme: tools
 category: tools
 name: Simon Poole, Frederik Ramm, Ethan Nelson
