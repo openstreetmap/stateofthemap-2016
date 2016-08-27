@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Osmose-QA, fix issues and understand what around Osmose-QA
+title: Osmose-QA: Fix issues and understand the tool
 theme: analysis
 category: analysis
 name: Frédéric Rodrigo
