@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Mind your language - state of language maps
+title: "Mind your language: State of language maps"
 name: Srravya C
 organization: Free Software Foundation Tamil Nadu
 theme: multi
