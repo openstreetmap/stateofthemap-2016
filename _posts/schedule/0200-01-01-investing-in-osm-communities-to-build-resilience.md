@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Investing in OSM communities to aid disaster risk management
+title: Investing in OSM communities to build resilience
 theme: community-growth
 category: community-growth
 name: Vivien Deparday
