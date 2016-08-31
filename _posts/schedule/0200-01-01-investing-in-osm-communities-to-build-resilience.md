@@ -11,7 +11,7 @@ room: a
 tags:
   - slot4
 ---
-The World Bank launched the Open Data for Resilience Initiative (OpenDRI) and has been engaging in community mapping projects since it's inception in 2011. The aim is to bring stakeholders together to create data and tools to inform decision-making related to urban planning and disaster risk management. But it's equally important to develop a level of trust necessary for these efforts to become sustainable.
+The World Bank launched the Open Data for Resilience Initiative (OpenDRI) and has been engaging in community mapping projects since its inception in 2011. The aim is to bring stakeholders together to create data and tools to inform decision-making related to urban planning and disaster risk management. But it's equally important to develop a level of trust necessary for these efforts to become sustainable.
 
 Illustrated with many examples, this talk will address the following questions by presenting core principles of engagement and best practices to design successful community mapping activities.
 

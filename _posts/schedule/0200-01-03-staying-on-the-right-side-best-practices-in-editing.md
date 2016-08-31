@@ -19,4 +19,4 @@ First, Ethan Nelson will show a few examples of editing disputes he has seen dur
 
 Frederik Ramm will then explain why so-called "mechanical edits" - edits in which a large number of objects are changed without looking at them individually - can be detrimental to OpenStreetMap. He will outline the frequent pitfalls waiting for those who attempt mechanical edits, and explain the correct procedures for performing them.
 
-Finally, Simon Poole will review editing tools. He wil give an overview of some "shoulds" and "don'ts" that both consumer and developers should consider when choosing a tool and developing one. The talk will be peppered with examples of some of the more arcane stuff you need to deal with to avoid critisim for using or writing a tool that breaks stuff.
+Finally, Simon Poole will review editing tools. He will give an overview of some "shoulds" and "don'ts" that both consumer and developers should consider when choosing a tool and developing one. The talk will be peppered with examples of some of the more arcane stuff you need to deal with to avoid criticism for using or writing a tool that breaks stuff.
