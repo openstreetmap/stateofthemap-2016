@@ -3,7 +3,7 @@ layout: event
 title: Station Indoor routing and mapping in practice with OpenStationMap
 theme: indoors
 category: indoors
-name: Emrah Kutlu, Julia Eifler, Tracy Kasperczyk, Roland Olbricht, Roland Wagner
+name: Roland Olbricht, Roland Wagner
 organization: MENTZ GmbH and Akaparis GmbH
 twitter:
 osm:
