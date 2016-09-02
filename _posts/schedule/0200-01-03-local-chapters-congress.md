@@ -7,8 +7,8 @@ name: Mikel Maron
 organization: OpenStreetMap Foundation
 twitter: openstreetmap
 osm:
-capacity: 50
-room: Nelson Mandela
+capacity: 75
+room: Foyer
 track: 3
 tags:
   - slot33
