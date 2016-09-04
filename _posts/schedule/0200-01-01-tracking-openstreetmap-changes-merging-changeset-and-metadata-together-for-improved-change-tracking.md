@@ -3,7 +3,7 @@ layout: event
 title: "Tracking OpenStreetMap changes: Merging changeset and metadata together for improved change tracking"
 theme: analysis
 category: analysis
-name: Nate Smith
+name: Dylan Moriarty
 organization: Development Seed
 twitter: nas_smith
 osm:
