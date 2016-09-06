@@ -9,7 +9,6 @@ twitter:
 osm:
 capacity: 30 + 30
 room: Building D/Room 1+2
-track: 3
 tags:
   - slot9
 ---
