@@ -3,14 +3,79 @@ layout: program
 color: fill-midnight
 color: dark-nav
 ---
+{% case page.room %}
+{% when 'a' %}
+{% assign room = 'Auditorium A' %}
+{% when 'b' %}
+{% assign room = 'Auditorium C' %}
+{% else %}
+{% assign room = page.room %}
+{% endcase %}
 
-
+{% if page.tags contains 'slot1' %}
+{% assign time = 'Friday 10:00am' %}
+{% elsif page.tags contains 'slot2' %}
+{% assign time = 'Friday 10:30am' %}
+{% elsif page.tags contains 'slot3' %}
+{% assign time = 'Friday 11:30am' %}
+{% elsif page.tags contains 'slot4' %}
+{% assign time = 'Friday 12:00pm' %}
+{% elsif page.tags contains 'slot5' %}
+{% assign time = 'Friday 12:30pm' %}
+{% elsif page.tags contains 'slot6' %}
+{% assign time = 'Friday 2:10pm' %}
+{% elsif page.tags contains 'slot7' %}
+{% assign time = 'Friday 2:40pm' %}
+{% elsif page.tags contains 'slot8' %}
+{% assign time = 'Friday 3:10pm' %}
+{% elsif page.tags contains 'slot9' %}
+{% assign time = 'Friday 4:10pm' %}
+{% elsif page.tags contains 'slot10' %}
+{% assign time = 'Friday 4:40pm' %}
+{% elsif page.tags contains 'slot11' %}
+{% assign time = 'Friday 5:10pm' %}
+{% elsif page.tags contains 'slot12' %}
+{% assign time = 'Saturday 9:30am' %}
+{% elsif page.tags contains 'slot13' %}
+{% assign time = 'Saturday 10:00am' %}
+{% elsif page.tags contains 'slot14' %}
+{% assign time = 'Saturday 10:30am' %}
+{% elsif page.tags contains 'slot15' %}
+{% assign time = 'Saturday 11:30am' %}
+{% elsif page.tags contains 'slot16' %}
+{% assign time = 'Saturday 12:00pm' %}
+{% elsif page.tags contains 'slot17' %}
+{% assign time = 'Saturday 12:30pm' %}
+{% elsif page.tags contains 'slot18' %}
+{% assign time = 'Saturday 2:00pm' %}
+{% elsif page.tags contains 'slot19' %}
+{% assign time = 'Saturday 2:30pm' %}
+{% elsif page.tags contains 'slot20' %}
+{% assign time = 'Saturday 3:00pm' %}
+{% elsif page.tags contains 'slot21' %}
+{% assign time = 'Saturday 4:00pm' %}
+{% elsif page.tags contains 'slot22' %}
+{% assign time = 'Saturday 4:30pm' %}
+{% elsif page.tags contains 'slot23' %}
+{% assign time = 'Saturday 5:00pm' %}
+{% elsif page.tags contains 'slot31' %}
+{% assign time = 'Sunday 10:00am' %}
+{% elsif page.tags contains 'slot32' %}
+{% assign time = 'Sunday 11:45am' %}
+{% elsif page.tags contains 'slot33' %}
+{% assign time = 'Sunday 2:00pm' %}
+{% elsif page.tags contains 'slot34' %}
+{% assign time = 'Sunday 3:45pm' %}
+{% endif %}
 <div class='' id="event-page">
   <div class=''>
     <div class='pad4y col12 clearfix space-bottom8'>
       <div class='col4'><h2 class='spartan color-{{page.color}}2'>{{page.title}}</h2>
-        <p class="space-top2">      <span class='inline pad0 dot fill-{{page.category | replace: ' ',  '-'}}'></span>
-            <span class='sans capitalize'>{{page.theme}}</span></p>
+        <span class='inline pad0'>{{time}} / {{room}}</span>
+        <p class="space-top2">
+           <span class='inline pad0 dot fill-{{page.category | replace: ' ',  '-'}}'></span>
+          <span class='sans capitalize'>{{page.theme}}</span>
+        </p>
       </div>
       <div class='col7 margin1 min-height'>
         <header class='space-bottom2'>
