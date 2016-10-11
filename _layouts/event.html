@@ -115,6 +115,11 @@ color: dark-nav
           </small>
 
         </header>
+        {% if page.youtube_recording %}
+        <div class='prose space-bottom2'>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ page.youtube_recording }}" frameborder="0" allowfullscreen></iframe>
+        </div>
+        {% endif %}
         <div class='prose space-bottom2'>
           {{content}}
         </div>

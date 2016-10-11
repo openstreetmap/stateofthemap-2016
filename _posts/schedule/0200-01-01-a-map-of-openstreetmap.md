@@ -10,6 +10,7 @@ osm:
 room: a
 tags:
   - slot6
+youtube_recording: 0NHJ4iz9_54
 ---
 There is no comprehensive picture of what the heck OpenStreetMap has become. What started as a crazy hacker project is now a vital part of the global data ecosystem yet also still a crazy complex hacker project. The number of mappers and organizations, new uses and ways to contribute, is growing ever faster. It's hard to find your way as a newcomer, and even long timers can't track how our community grows and transforms.
 
