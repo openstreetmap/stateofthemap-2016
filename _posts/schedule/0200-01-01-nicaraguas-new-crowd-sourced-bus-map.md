@@ -10,6 +10,7 @@ osm:
 room: a
 tags:
   - slot2
+youtube_recording: Wn_qC44PU2c
 ---
 In Managua, Nicaragua, over 1.5 million inhabitants are dependent on public transport but until now there had been no map of the 45 bus lines. Using free technology, crowd-funding and the power of collaboration, engaged citizens worked together to create the first complete public transportation map of any Central American capital.
 
