@@ -10,6 +10,8 @@ osm:
 room: a
 tags:
   - slot1
+youtube_recording: zFUGfd3KSwU
+
 ---
 With a global community of over 2.5 million registered users and a planet reaching the 50GB file size, making sense of OSM data, globally, locally, and temporally, presents significant challenges. In 2016 an online platform which could filter by user, timeslider, custom drawn areas and more was born.
 
