@@ -10,6 +10,7 @@ osm:
 room: a
 tags:
   - slot8
+youtube_recording: qn2wk4JT2FQ
 ---
 OSM is a global community and yet not diverse in the gender aspect. Though considerable effort has gone into introducing more women to the community, the transformation of newcomers into long standing contributors to the community doesn't happen automatically. There seems to be need for dedicated efforts to help novice women gain their foothold in the domain. 
 
