@@ -10,6 +10,7 @@ osm:
 room: a
 tags:
   - slot7
+youtube_recording: TOEfjLMlWHQ
 ---
 With forums, blogs, social media and more than 150 international mailing lists (and 50 regional lists in Germany alone) it is not possible for an interested mapper to be informed on the ongoings of the global community. In order to fill this gap Wochennotiz/weeklyOSM was created. It attempts to offer a way for publish all the projects and application developed for people who are passionate about OSM.
 
