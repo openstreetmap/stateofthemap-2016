@@ -10,6 +10,7 @@ osm:
 room: a
 tags:
   - slot5
+youtube_recording: Jt2b0qXHucE
 ---
 The [OSM2VectorTiles](http://osm2vectortiles.org/) project offers free downloadable vector tiles from OpenStreetMap data ready to use by people interested in hosting custom base maps on their own infrastructure. The whole world fits on a USB stick and can be served from an ordinary web hosting and styled and enriched to make beautiful and fast maps for web and mobile applications. 
 
