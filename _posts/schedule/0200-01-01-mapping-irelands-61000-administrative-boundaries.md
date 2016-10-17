@@ -10,6 +10,7 @@ osm:
 room: a
 tags:
   - slot17
+youtube_recording: cMsNXrIy_N0
 ---
 For the last 6 years, the Irish OSM community has been manually tracing Ireland's smallest administrative boundaries, townlands, from scanned maps from the 1830s and 1840s.  We'll explain how we're doing it, what tech we needed, and how you get people to stare at really old maps for hours on end.
 
