@@ -10,6 +10,7 @@ osm:
 room: b
 tags:
   - slot6
+youtube_recording: NzrxxVl5idQ
 ---
 The Open Source Routing Machine (OSRM) is a popular routing engine, providing blazing fast global route-finding on OpenStreetMap. In the last 12 months, OSRM has taken big-steps towards a world-class navigation experience for car drivers. We made route duration estimates more realistic, by allowing developers to provide custom speed and turn duration data. We also dramatically shortened pre-processing times and improved turn-by-turn guidance.
 
