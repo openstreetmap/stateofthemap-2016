@@ -10,6 +10,7 @@ osm:
 room: b
 tags:
   - slot8
+youtube_recording: 0PTjHujph-o
 ---
 Accessing Location Data Services through web APIs has been common practice over the last years. When an organization needs to get access to geocoding and routing functionalities they choose a provider, implement their API and integrate that procedure into their business logic, typically building middleware on top of their database. What if we get access to those APIs directly into the database? Imagine a SQL function that get access to a geocoding service backed by OpenStreetMap. Or a another that allows you to generate isochrones for different times and transport methods. 
 
