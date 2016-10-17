@@ -10,6 +10,7 @@ osm:
 room: b
 tags:
   - slot2
+youtube_recording: KClcJhGktoE
 ---
 Pathways, biking routes, field roads or shortcuts: these are everyday features whom we rarely contemplate on. Yet what we consider self-evident, often stays invisible. Trage Wegen (literally ‘association for slow roads’) is an organization that celebrates these hidden gems, suitable for pedestrians and bikers.
 
