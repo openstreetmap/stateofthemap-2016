@@ -10,6 +10,7 @@ osm:
 room: a
 tags:
   - slot21
+youtube_recording: F7ZBH3IpA_Y
 ---
 As a young leader in Mali, Nathalie understands the importance of open data in resolving some of the challenges the country faces. Inspired by Espace OSM Francophone (EOF) workshops, and with the support of other young leaders, she created the Malian OpenStreetMap Community.
 
