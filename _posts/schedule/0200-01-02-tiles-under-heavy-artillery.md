@@ -10,6 +10,7 @@ osm:
 room: b
 tags:
   - slot10
+youtube_recording: GuAVQpM0pWE
 ---
 Some people wonder whether OSM can be a great fit for their business. In this talk, we are not going to discuss the documentation, maintainability, updates, and robustness issues of OSM-based maps. Neither will we try convincing you that going for OSM is an easy task.
 
