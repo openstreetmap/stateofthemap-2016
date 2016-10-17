@@ -10,6 +10,7 @@ osm:
 room: a
 tags:
   - slot13
+youtube_recording: 9pHE_Ej9T10
 ---
 Drivers using Telenav's OpenStreetMap based Scout applications generate a continuous stream of location information. Liquid gold as it turns out! Using sophisticated matching and generalization techniques, Telenav's OSM engineers create something beautiful out of those billions of raw data points. We call it Improve OSM. A suite of tools that highlight small mapping tasks for contributing to OSM in a meaningful way. 
 
