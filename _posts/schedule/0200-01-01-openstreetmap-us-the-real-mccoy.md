@@ -10,6 +10,7 @@ osm:
 room: a
 tags:
   - slot20
+youtube_recording: SlTSorBAYNs
 ---
 OpenStreetMap US is one of the most significant OpenStreetMap communities in the world. Organized in 2009, OpenStreetMap US manages the largest budget, conference, website, and mapathons. We have also supported the production of key OpenStreetMap development tools such as MapRoulette and iD Editor, collaborated with federal, state and local government agencies, and assisted with ten major OpenStreetMap humanitarian response. And -- we are friendly! From its very beginnings, OpenStreetMap US has been a functional model of communication and action. 
 
