@@ -10,6 +10,7 @@ osm:
 room: b
 tags:
   - slot5
+youtube_recording: rdsaW47MAv0
 ---
 Remote mapping in OpenStreetMap requires access to openly licensed imagery. Working with a community of satellite companies and drone operators OpenAerialMap has been providing open access aerial imagery since last summer. Users can search through a web-based map browser, connect to an API, and upload imagery to publish open imagery. Imagery can be immediately loaded into iD or JOSM for tracing in OpenStreetMap.
 
