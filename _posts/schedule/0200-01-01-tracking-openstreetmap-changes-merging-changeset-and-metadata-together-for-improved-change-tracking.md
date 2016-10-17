@@ -10,6 +10,7 @@ osm:
 room: a
 tags:
   - slot14
+youtube_recording: QA4-eSiDXas
 ---
 Working together with the American Red Cross and the MissingMaps project, we've built a system that tracks user contributions to Missing Maps projects around the globe. Minute by minute it calculates statistics, provides leader boards and awards themed badges for contributions. It's making editing a more social experience.
 
