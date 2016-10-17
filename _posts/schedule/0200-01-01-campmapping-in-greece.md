@@ -10,6 +10,7 @@ osm:
 room: a
 tags:
   - slot15
+youtube_recording: Z0ZNYCP6m30
 ---
 The Red Cross is mapping migrant camps in Greece. The project entails some basic infrastructure mapping of the various camps (based on recent aerial imagery), from which we we will work together with migrants in the camps to further enrich the map with detailed, relevant information. These maps will be used for interaction of parties active in the camps to engage with the people living there. And of course, can also be used by migrants amongst each other.
 
