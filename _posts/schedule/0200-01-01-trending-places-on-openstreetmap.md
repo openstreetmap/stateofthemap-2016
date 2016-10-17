@@ -10,6 +10,7 @@ osm:
 room: a
 tags:
   - slot12
+youtube_recording: Ipt2uNWeoSk
 ---
 Current news or a popular event in a region may result in a increase in map views. The goal of “Trending Places on OpenStreetMap” is to locate where there is a high viewing activity occurs on the main OpenStreetMap web map. The map consists of many tiles and the views of these tiles are logged daily and following processing the top trending places are tweeted by @trending_places. 
 
