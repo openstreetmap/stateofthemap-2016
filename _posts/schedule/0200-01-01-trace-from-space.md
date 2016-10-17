@@ -10,6 +10,7 @@ osm:
 room: a
 tags:
   - slot19
+youtube_recording: XDR3etu8z8Q
 ---
 Anyone who has edited OpenStreetMap (OSM) has used DigitalGlobe imagery; they might not realize it, they might refer to it as “Bing” or “Nextview”, but all OSM users are DigitalGlobe users.
 
