@@ -10,6 +10,7 @@ osm:
 room: b
 tags:
   - slot13
+youtube_recording: N0DsatEt0J8
 ---
 Since its inception in 2010, the Humanitarian OpenStreetMap Team (HOT) has coordinated thousands of volunteers in the creation of maps for humanitarian purposes. Contributors have traced satellite images and digitised field data in response to Typhoon Haiyan, the 2015 Nepal earthquake, the Ebola epidemic, and many other disasters. Despite these efforts, large parts of the world remain unmapped. With ambitions to fix this HOT are now trying to understand how to grow the largest crowdsourcing community on the planet. 
 

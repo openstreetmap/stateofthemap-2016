@@ -10,6 +10,7 @@ osm:
 room: b
 tags:
   - slot18
+youtube_recording: _PO7MV8q1ks
 ---
 TeachOSM is dedicated to making OpenStreetMap the on-ramp to a rich world of open source mapping tools and educational activities. Because of their low cost and relative accessibility, OpenStreetMap and the related ecology of open source geospatial tools are ideal for teaching the fundamental concepts of geography and mapping. 
 

@@ -10,6 +10,7 @@ osm:
 room: b
 tags:
   - slot16
+youtube_recording: 42Wz770g9Dk
 ---
 Today OpenStreetMap has mapped 188 million buildings. This is an awesome number! But for the majority little more than a geometry footprint is available. For spatial orientation, navigation, solar potential analysis, risk detection and others there is a demand for more specific tagging. Using a new focused editor you can help collect this data without worrying about other OSM data.
 

@@ -10,6 +10,7 @@ osm:
 room: a
 tags:
   - slot22
+youtube_recording: Oqj8uWVjliE
 ---
 Many of us heard about the bill India recently published to control the geospatial information, but were you aware that a ban on unauthorized mapping already exists in Pakistan? This has put a dent in crowdsourced mapping in Pakistan but all is not lost.
 

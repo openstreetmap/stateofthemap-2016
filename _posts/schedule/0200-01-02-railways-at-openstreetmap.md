@@ -10,6 +10,7 @@ osm:
 room: b
 tags:
   - slot23
+youtube_recording: tHBBABCiB5A
 ---
 Railway infrastructure is a topic most people either do not know much about or do not want to know much about. It is a rather exotic topic but it has its fans. Well-known by lots of railway fans, OpenRailwayMap is a map of the railway infrastructure (tracks, signals, speed limits, electrification) but  unlike other special-interest maps, it is quite country-dependent because railway signalling differs between countries very much.
 
