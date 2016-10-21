@@ -12,6 +12,7 @@ room: Room QA
 track: 1
 tags:
   - slot32
+youtube_recording: wL4yF-wxI9U
 ---
 This session will examine best practices in editing conflicts, mechanical editing and editing tools. It comprises three parts.
 

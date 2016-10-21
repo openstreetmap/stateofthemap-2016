@@ -10,6 +10,7 @@ osm:
 room: a
 tags:
   - slot23
+youtube_recording: Cm62XQ9SYKI
 ---
 In 2013, the buildings from the Brussels local government database were incorporated into OSM. Although the local government databases are updated every three months, there is still no process to integrate theses changes into OSM. Having such a process would be beneficial for OSM but also for local government. 
 

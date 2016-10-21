@@ -12,6 +12,7 @@ room: Room QA
 track: 1
 tags:
   - slot34
+youtube_recording: MEml0vO3qvM
 ---
 Map data is increasingly playing a critical role in a world - from smart navigation, to looking towards improved energy efficiency and reducing impact on the environment. More and more users are contributing to OpenStreetMap daily, and the platform already allows for versatile routing for pedestrians, bicycles, and cars, but critical gaps in the data prohibits us from tapping into its full navigation capability. 
 

@@ -10,6 +10,7 @@ osm:
 room: b
 tags:
   - slot17
+youtube_recording: lI28m3tHDW8
 ---
 OpenStreetMap's offline tools are amazing. But for intensive mapping by small teams, coordinating contributions can be difficult; especially when you lack reliable internet connectivity! Because the Red Cross’ mapping locations are so remote, a better way to interact and edit OSM in a disconnected way for days and potentially weeks at a time was required.
 

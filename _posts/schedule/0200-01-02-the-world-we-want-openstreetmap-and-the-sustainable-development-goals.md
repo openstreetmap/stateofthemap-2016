@@ -10,6 +10,7 @@ osm:
 room: b
 tags:
   - slot12
+youtube_recording: 8_9JHC1pNns
 ---
 In early 2016, Humanitarian OpenStreetMap Team (HOT) made a commitment to the Global Partnership for Sustainable Development Data. As part of this process, HOT mapped the work of the global OSM community to the 17 UN Sustainable Development Goals. Incredibly, (or perhaps not so surprisingly), it was found that the global OSM community is contributing to nearly all of the goals. 
 
