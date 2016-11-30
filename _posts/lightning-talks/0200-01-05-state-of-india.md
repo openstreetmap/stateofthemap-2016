@@ -8,6 +8,8 @@ category: lightning
 twitter: PrtkYdv
 length: 5min
 osm: pratikyadav
+room: a
+youtube_recording: aGY_mGEpTDg
 ---
 
 What unique opportunities and challenges do social, economic, and political factors in India present for OpenStreetMap adoption? By focusing on the current applications of OpenStreetMap data, growing awareness, and threats to adoption posed by the current political climate, Pratik will provide a glimpse of the current state of OpenStreetMap in the second most populous nation in the world.
