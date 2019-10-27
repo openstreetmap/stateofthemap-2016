@@ -1,11 +1,11 @@
 ---
 layout: event
-title: OSM + time dimension 
+title: OSM + time dimension
 name: Daan van Ramshorst
 organization: Map of Humanity
 theme: multi
 category: lightning
-twitter: 
+twitter:
 length: 5min
 osm:
 youtube_recording: AhECOviCgS8

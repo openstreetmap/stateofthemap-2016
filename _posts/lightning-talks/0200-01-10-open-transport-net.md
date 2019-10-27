@@ -5,7 +5,7 @@ name: Lieven Raes
 organization: Open Transport Net
 theme: multi
 category: lightning
-twitter: 
+twitter:
 length: 5min
 osm:
 youtube_recording: --acaOsfI10

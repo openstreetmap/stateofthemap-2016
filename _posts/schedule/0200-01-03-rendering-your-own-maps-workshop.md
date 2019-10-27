@@ -4,7 +4,7 @@ title: Rendering your own maps workshop
 theme: technical
 category: technical
 name: Paul Norman
-organization: 
+organization:
 twitter: penorman
 osm:
 capacity: 30

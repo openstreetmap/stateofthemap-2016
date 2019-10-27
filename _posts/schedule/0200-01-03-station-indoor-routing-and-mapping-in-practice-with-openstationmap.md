@@ -14,7 +14,7 @@ tags:
   - slot33
 youtube_recording: 5T5zH-zanXI
 ---
-The typical public transit station is used by tens of thousands of passengers each day. Due to their complexity a lot of mappers feel overwhelmed with editing stations. Furthermore lots of important features like fare gates do not have an established tagging yet. 
+The typical public transit station is used by tens of thousands of passengers each day. Due to their complexity a lot of mappers feel overwhelmed with editing stations. Furthermore lots of important features like fare gates do not have an established tagging yet.
 
 The Deutsche Bahn (German railways) with Akaparis GmbH and Dynamo Project and MVV with Mentz GmbH have mapped many long distance and metro stations in the last year. On the other hand there are still a large number of stations which are “terra incognita” for OSM. Therefore this workshop invites you to join these activities and to expand this idea of future smart indoor routing and mapping within stations.
 

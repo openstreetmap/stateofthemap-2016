@@ -5,7 +5,7 @@ theme: education
 category: education
 name: Louis-Julien de la Bouëre
 organization: Tiriad
-twitter: 
+twitter:
 osm:
 room: b
 tags:

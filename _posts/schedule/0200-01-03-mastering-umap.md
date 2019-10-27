@@ -4,7 +4,7 @@ title: Mastering uMap
 theme: tools
 category: tools
 name: Yohan Boniface
-organization: 
+organization:
 twitter: informagicien
 osm:
 capacity: 30

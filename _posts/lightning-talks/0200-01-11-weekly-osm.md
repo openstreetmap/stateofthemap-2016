@@ -5,7 +5,7 @@ name: Manfred
 organization: WeeklyOSM
 theme: multi
 category: lightning
-twitter: 
+twitter:
 length: 5min
 osm:
 youtube_recording: j51qMeZ-jWY

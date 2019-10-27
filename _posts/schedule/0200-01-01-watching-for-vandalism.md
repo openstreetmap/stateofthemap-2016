@@ -8,7 +8,7 @@ organization: Mapbox
 twitter: geohacker
 osm:
 room: a
-tags: 
+tags:
   - slot18
 youtube_recording: RBilKVoQ7ac
 ---

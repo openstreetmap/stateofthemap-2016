@@ -4,7 +4,7 @@ title: "Osmose-QA: Fix issues and understand the tool"
 theme: analysis
 category: analysis
 name: Frédéric Rodrigo
-organization: 
+organization:
 twitter: fre2d
 osm:
 capacity: 30

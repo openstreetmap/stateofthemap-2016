@@ -4,8 +4,6 @@
 
  </section>
 
-
-
 <script>
 mapboxgl.accessToken = 'pk.eyJ1Ijoic3RhdGVvZnRoZW1hcCIsImEiOiJjaXowOTh4am4wMWduMzNtbmtoY2V2Zzd6In0.4haxNzxFpuAssnAYc9XVAg';
 var map = new mapboxgl.Map({
@@ -19,8 +17,6 @@ map.on('style.load', function() {
     $('.mapboxgl-ctrl-attrib.mapboxgl-ctrl').remove();
     $('.mapboxgl-ctrl-bottom-right').append('<div class="mapboxgl-ctrl-attrib mapboxgl-ctrl"><a href="http://www.openstreetmap.org/about/" target="_blank">© OpenStreetMap contributors</a></div>');
 });
-
-
 
 // Add zoom and rotation controls to the map.
 map.addControl(new mapboxgl.Navigation());

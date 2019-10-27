@@ -5,7 +5,7 @@ name: Ilya Zverev
 organization: Maps.me
 theme: multi
 category: lightning
-twitter: 
+twitter:
 length: 5min
 osm:
 youtube_recording: yrT9Ev7s5xs

@@ -4,7 +4,7 @@ title: Area Workshop
 theme: technical
 category: technical
 name: Jochen Topf
-organization: 
+organization:
 twitter:
 osm:
 capacity: 30
