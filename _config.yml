@@ -29,3 +29,7 @@ defaults:
       type: posts
     values:
       permalink: /2016/:title/
+
+plugins:
+  - jekyll-gzip
+  # - jekyll-brotli
