@@ -2,7 +2,7 @@
 
 The `gh-pages` branch is published under:
 
-http://openstreetmap.github.io/stateofthemap-2016/
+https://2016.stateofthemap.org/
 
 ## Local installation
 
